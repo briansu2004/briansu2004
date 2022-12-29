@@ -32,6 +32,17 @@
 
 ## My GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=briansu2004&show_icons=true&theme=rose_pine" />
+![My GitHub](https://github-readme-stats.vercel.app/api?username=briansu2004&show_icons=true&theme=rose_pine)
+
+![My GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=briansu2004&layout=compact&card_width=250&langs_count=20&theme=rose_pine)
+
+<img
+    src="https://github-readme-stats.vercel.app/api?username=briansu2004&show_icons=true&theme=rose_pine"
+    alt="Markdown Monster icon"
+    style="float: left; margin-right: 10px;" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briansu2004&layout=compact&card_width=250&langs_count=6&theme=rose_pine" />
+
+<img src="markdownmonstericon.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
