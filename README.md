@@ -2,6 +2,14 @@
 
 ## Skills
 
+- Dev
+- Cloud
+- DevOps
+- AI
+- Full Stack
+- Big Data
+- Data Science
+- Machine Learning
 - Java
 - Python
 - Scala
@@ -22,10 +30,6 @@
 - Kubernetes
 - GitHub
 - GitLab
-- Dev
-- Cloud
-- DevOps
-- Full Stack
 - Spark
 - Kafka
 - Cassandra
