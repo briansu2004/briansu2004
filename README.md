@@ -1,5 +1,21 @@
 # Hi there 😎
 
+briansu2004@hotmail.com
+
+<a href="https://www.linkedin.com/in/brian-su-opentowork/" target="_blank">
+  <img align="left" alt="brian Su | LinkedIn" width="30px"  src="linkedin.svg" />
+</a>
+
+<br />
+<br />
+
+<!--
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 ## Skills
 
 - Dev
