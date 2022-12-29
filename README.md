@@ -7,9 +7,15 @@ briansu2004@hotmail.com
 </a>
 
 <br />
-<br />
 
-**Languages and Tools:**
+<!--
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+## Skills
 
 <p align="left">
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -23,16 +29,6 @@ briansu2004@hotmail.com
 </p>
 
 <br />
-<br />
-
-<!--
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## Skills
 
 - Dev
 - Cloud
