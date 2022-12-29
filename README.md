@@ -6,6 +6,8 @@ briansu2004@hotmail.com
   <img align="left" alt="brian Su | LinkedIn" width="30px"  src="linkedin.svg" />
 </a>
 
+<br />
+
 **Languages and Tools:**
 
 <p align="left">
