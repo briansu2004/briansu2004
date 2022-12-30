@@ -100,13 +100,13 @@ briansu2004@hotmail.com
 
 -->
 
-## 💳 Github Profile Summary Card
+## 💳📈 Github Profile Summary Card
 
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=briansu2004&theme=vue"/>
 </p>
 
-## 📟 GitHub Stats
+## 📟🗿 GitHub Stats
 
 <p align="left">
  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=briansu2004&show_icons=true&theme=vue" />
@@ -115,11 +115,11 @@ briansu2004@hotmail.com
 
 ![My GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=briansu2004&layout=compact&card_width=250&langs_count=20&theme=rose_pine)
 
-## ✍️ Random Dev Quote
+## ✍️👩‍💻 Random Dev Quote
 
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
-## 💰You can help me by Donating
+## 💰🧧 You can help me by donating (no pressure; no rush)
 
 <!--[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mtechviral) -->
 
