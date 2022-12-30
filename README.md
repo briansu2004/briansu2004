@@ -8,7 +8,7 @@
 - 👯 I'm looking to collaborate on [GitHub](https://github.com/briansu2004).
 - 🤔 I'm looking for help with running faster.
 - 💬 Ask me about any tech-related stuff.
-- 📫 How to reach me: you are here already - briansu2004@hotmail.com <a href="https://www.linkedin.com/in/brian-su-opentowork/" target="_blank"><img alt="brian Su | LinkedIn" width="30px" src="linkedin.svg" /></a>
+- 📫 How to reach me: you are here already - briansu2004@hotmail.com <a href="https://www.linkedin.com/in/brian-su-opentowork/" target="_blank"><img alt="brian Su | LinkedIn" width="10px" src="linkedin.svg" /></a>
 - ⚡ Fun fact: I am very good at math.
 
 <!--
@@ -102,13 +102,13 @@ briansu2004@hotmail.com
 
 ## 💳 Github Profile Summary Card
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=briansu2004&theme=vue"/>
 </p>
 
 ## 📟 GitHub Stats
 
-<p align="center">
+<p align="left">
  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=briansu2004&show_icons=true&theme=vue" />
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=briansu2004&theme=vue" />
 </p>
