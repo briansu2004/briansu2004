@@ -1,14 +1,13 @@
 # Hello Benjour Hola 您好 😎
 
-## 👍 About Me
+## 👍😊 About Me
 
-- 😄 Pronouns: He/His
 - 🔭 I'm currently coding.
 - 🌱 I'm currently learning more about history.
 - 👯 I'm looking to collaborate on [GitHub](https://github.com/briansu2004).
 - 🤔 I'm looking for help with running faster.
 - 💬 Ask me about any tech-related stuff.
-- 📫 How to reach me: you are here already - briansu2004@hotmail.com <a href="https://www.linkedin.com/in/brian-su-opentowork/" target="_blank"><img alt="brian Su | LinkedIn" width="10px" src="linkedin.svg" /></a>
+- 📫 How to reach me: you are here already - briansu2004@hotmail.com <a href="https://www.linkedin.com/in/brian-su-opentowork/" target="_blank"><img alt="brian Su | LinkedIn" width="20px" src="linkedin.svg" /></a>
 - ⚡ Fun fact: I am very good at math.
 
 <!--
@@ -17,10 +16,10 @@ briansu2004@hotmail.com
 <a href="https://www.linkedin.com/in/brian-su-opentowork/" target="_blank">
   <img align="left" alt="brian Su | LinkedIn" width="30px"  src="linkedin.svg" />
 </a>
--->
 
 <br />
 <br />
+-->
 
 <!--
 - 👯 I'm looking to collaborate on ...
@@ -121,9 +120,7 @@ briansu2004@hotmail.com
 
 ## 💰🧧 You can help me by donating (no pressure; no rush)
 
-<!--[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mtechviral) -->
-
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/briansu2004)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/BRIANSU2004) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/briansu2004)
 
 <!-- [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/mtechviral) -->
   
