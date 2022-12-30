@@ -8,7 +8,7 @@
 - 🤔 I'm looking for help with running faster.
 - 💬 Ask me about any tech-related stuff.
 - 📫 How to reach me: you are here already - briansu2004@hotmail.com <a href="https://www.linkedin.com/in/brian-su-opentowork/" target="_blank"><img alt="brian Su | LinkedIn" width="20px" src="linkedin.svg" /></a>
-- ⚡ Fun fact: I am good at math and singing <a href="https://www.youtube.com/channel/UCq0te5P-Xe5VqaIM-tzNfrA/videos" target="_blank"><img alt="brian Su | Youtube" width="20px" src="YouTube-#FF0000.svg" /></a>
+- ⚡ Fun fact: I am good at math and singing <a href="https://www.youtube.com/channel/UCq0te5P-Xe5VqaIM-tzNfrA/videos" target="_blank"><img alt="brian Su | Youtube" height="15px" src="YouTube.svg" /></a>
 
 <!-- ![My YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) -->
 
