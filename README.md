@@ -115,6 +115,16 @@ briansu2004@hotmail.com
 
 ![My GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=briansu2004&layout=compact&card_width=250&langs_count=20&theme=rose_pine)
 
-## ✍️Random Dev Quote
+## ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+
+## 💰You can help me by Donating
+
+<!--[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mtechviral) -->
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/briansu2004)
+
+<!-- [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/mtechviral) -->
+  
+<!-- paypal.me/briansu2004 -->
