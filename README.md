@@ -123,12 +123,19 @@ briansu2004@hotmail.com
 
 ## 📟🗿 GitHub Stats
 
+<!--
 <p align="left">
  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=briansu2004&show_icons=true&theme=vue" />
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=briansu2004&theme=vue" />
 </p>
 
 ![My GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=briansu2004&layout=compact&card_width=250&langs_count=20&theme=rose_pine)
+-->
+
+<p align="left">
+ <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briansu2004&layout=compact&langs_count=20&theme=rose_pine" />
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=briansu2004&theme=vue" />
+</p>
 
 ## ✍️👩‍💻 Random Dev Quote
 
