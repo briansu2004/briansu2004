@@ -116,9 +116,8 @@ briansu2004@hotmail.com
 
 ## 💳📈 Github Profile Summary Card
 
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=briansu2004&theme=vue"/>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=briansu2004&theme=vue" height="120"/>
+
 
 ## 📟🗿 GitHub Stats
 
@@ -132,8 +131,8 @@ briansu2004@hotmail.com
 -->
 
 <p align="left">
- <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briansu2004&layout=compact&langs_count=20&theme=rose_pine" />
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=briansu2004&theme=vue" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briansu2004&layout=compact&langs_count=20&theme=rose_pine" height="120" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=briansu2004&theme=vue" height="120" />
 </p>
 
 <!--
