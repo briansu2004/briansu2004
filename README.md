@@ -1,6 +1,6 @@
 # Hello Bonjour Hola 您好 😎
 
-## 👍😊 About Me
+## 👍😊 Soy Brian Su
 
 <!--
 - 🔭 I'm currently coding.
