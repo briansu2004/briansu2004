@@ -36,7 +36,7 @@ briansu2004@hotmail.com
 - ⚡ Fun fact: ...
 -->
 
-## Tech Stack
+## 🥇🔑 Tech Stack
 
 <!--
 <p align="left">
