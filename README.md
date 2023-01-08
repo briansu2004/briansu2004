@@ -124,11 +124,11 @@ briansu2004@hotmail.com
 
 -->
 
-## 💳📈 Github Profile Summary Card
+<!-- Profile Summary Card -->
+
+## 💳📈 Github Stats
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=briansu2004&theme=vue" height="120"/>
-
-## 📟🗿 GitHub Stats
 
 <!--
 <p align="left">
