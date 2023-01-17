@@ -140,7 +140,9 @@ briansu2004@hotmail.com
 -->
 
 <p align="left">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briansu2004&layout=compact&langs_count=20&theme=rose_pine" height="120" />
+  <!--
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briansu2004&layout=compact&langs_count=20&theme=rose_pine" height="120" />
+  -->
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=briansu2004&theme=vue" height="120" />
 </p>
 
