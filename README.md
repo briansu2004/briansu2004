@@ -16,11 +16,16 @@
 
 - 🔭 I'm currently making my udemy courses <a href="https://www.youtube.com/@devopswithbrian2283" target="_blank"><img alt="DevOps with Brian | Youtube" height="15px" src="YouTube.svg" /></a>
 
-  - My very first Udemy course (and it is free):
+  - My very 1st Udemy course (and it was free):
 
-      [DevOps Labs: 9 Real DevOps Projects (free version)](https://www.udemy.com/course/devops-labs-9-real-devops-projects-free-version/)
+      [DevOps Labs: 3 Real DevOps Projects](https://www.udemy.com/course/devops-labs-9-real-devops-projects-free-version/)
+
+  - I just finished my 2nd Udemy course (under review):
+
+      DevOps Labs: 6 Real DevOps Projects
 
 - 📫 How to reach me: briansu2004@hotmail.com <a href="https://www.linkedin.com/in/brian-su-opentowork/" target="_blank"><img alt="brian Su | LinkedIn" width="20px" src="linkedin.svg" /></a>
+
 - ⚡ Fun fact: I am good at math and singing <a href="https://www.youtube.com/@singchanter8651" target="_blank"><img alt="Sing Chanter Cantar 唱 | Youtube" height="15px" src="YouTube.svg" /></a>
 
 <!-- ![My YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) -->
