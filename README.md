@@ -16,13 +16,15 @@
 
 - 🔭 I'm currently making my udemy courses <a href="https://www.youtube.com/@devopswithbrian2283" target="_blank"><img alt="DevOps with Brian | Youtube" height="15px" src="YouTube.svg" /></a> and learning Italian & Spanish
 
-  - My very 1st Udemy course (and it was free):
+  - My 1st Udemy course:
 
       [DevOps Labs: 3 Real DevOps Projects](https://www.udemy.com/course/devops-labs-9-real-devops-projects-free-version/)
 
-  - I just finished my 2nd Udemy course (under review):
+  - My 2nd Udemy course:
 
-      DevOps Labs: 6 Real DevOps Projects
+      [DevOps Labs: 6 Real DevOps Projects](https://www.udemy.com/course/devops-labs-6-real-devops-projects/)
+
+      <!-- https://lnkd.in/gbqMp9zq -->
 
 - 📫 How to reach me: briansu2004@hotmail.com <a href="https://www.linkedin.com/in/brian-su-opentowork/" target="_blank"><img alt="brian Su | LinkedIn" width="20px" src="linkedin.svg" /></a>
 
