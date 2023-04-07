@@ -26,6 +26,10 @@
 
       <!-- https://lnkd.in/gbqMp9zq -->
 
+  - My 3rd Udemy course:
+
+      [DevOps Labs: 9 Real DevOps Projects](Coming sooon)
+
 - 📫 How to reach me: briansu2004@hotmail.com <a href="https://www.linkedin.com/in/brian-su-opentowork/" target="_blank"><img alt="brian Su | LinkedIn" width="20px" src="linkedin.svg" /></a>
 
 - ⚡ Fun fact: I am good at math and singing <a href="https://www.youtube.com/@singchanter8651" target="_blank"><img alt="Sing Chanter Cantar 唱 | Youtube" height="15px" src="YouTube.svg" /></a>
