@@ -30,6 +30,10 @@
 
       [DevOps Labs: 9 Real DevOps Projects](https://www.udemy.com/course/devops-labs-9-real-devops-projects/)
 
+  - My 4th Udemy course (WIP):
+  
+      [DevOps Labs: 14 Real DevOps Projects](Coming soon)
+
 - 📫 How to reach me: briansu2004@hotmail.com <a href="https://www.linkedin.com/in/brian-su-opentowork/" target="_blank"><img alt="brian Su | LinkedIn" width="20px" src="linkedin.svg" /></a>
 
 - ⚡ Fun fact: I am good at math and singing <a href="https://www.youtube.com/@singchanter8651" target="_blank"><img alt="Sing Chanter Cantar 唱 | Youtube" height="15px" src="YouTube.svg" /></a>
