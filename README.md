@@ -2,7 +2,7 @@
 
 ## 👍😊 Sono Brian Su
 
-![DevOps Labs: 14 Real DevOps Projects](Udemy/Flyer-14-900x500.png)
+<a href="https://www.udemy.com/course/devops-labs-14-real-devops-projects/">![DevOps Labs: 14 Real DevOps Projects](Udemy/Flyer-14-900x500.png)</a>
 
 <!--
 - 🔭 I'm currently coding.
