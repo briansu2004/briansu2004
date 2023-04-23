@@ -2,6 +2,8 @@
 
 ## 👍😊 Sono Brian Su
 
+![DevOps Labs: 14 Real DevOps Projects](Udemy/Flyer-14-900x500.png)
+
 <!--
 - 🔭 I'm currently coding.
 - 🌱 I'm currently learning more about history.
