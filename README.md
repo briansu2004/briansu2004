@@ -32,9 +32,13 @@
 
       [DevOps Labs: 9 Real DevOps Projects](https://www.udemy.com/course/devops-labs-9-real-devops-projects/)
 
-  - My 4th Udemy course (submitted):
+  - My 4th Udemy course:
   
       [DevOps Labs: 14 Real DevOps Projects](https://www.udemy.com/course/devops-labs-14-real-devops-projects/)
+
+  - My 5th Udemy course (WIP):
+
+      [DevOps Labs: 12 Real DevOps Projects]
 
 - 📫 How to reach me: briansu2004@hotmail.com <a href="https://www.linkedin.com/in/brian-su-opentowork/" target="_blank"><img alt="brian Su | LinkedIn" width="20px" src="linkedin.svg" /></a>
 
