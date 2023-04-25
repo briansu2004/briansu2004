@@ -38,7 +38,7 @@
 
   - My 5th Udemy course (WIP):
 
-      [DevOps Labs: 12 Real DevSecOps Projects]
+      [DevOps Labs: 12 Real DevSecOps Projects](https://www.udemy.com/course/devops-labs-12-real-devsecops-projects/)
 
 - 📫 How to reach me: briansu2004@hotmail.com <a href="https://www.linkedin.com/in/brian-su-opentowork/" target="_blank"><img alt="brian Su | LinkedIn" width="20px" src="linkedin.svg" /></a>
 
