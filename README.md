@@ -40,7 +40,7 @@
 
       [DevOps Labs: 12 Real DevSecOps Projects](https://www.udemy.com/course/devops-labs-12-real-devsecops-projects/)
 
-  - My 6th Udemy course (WIP):
+  - My 6th Udemy course:
 
       [DevOps Labs: 15 Real DevSecOps Projects](https://www.udemy.com/course/devops-labs-15-real-devsecops-projects/)
 
