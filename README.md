@@ -1,4 +1,4 @@
-# Hello Bonjour Hola Ciao おはよう 안녕하세요 您好 😎
+# Hello Bonjour Hola Ciao おはよう 안녕하세요 Hallo 您好 😎
 
 ## 👍😊 Sono Brian Su
 
@@ -16,7 +16,7 @@
 
 - My family has 3 major issues now 😭😭😭 Very difficult time since the beginning of 2023 and new year of rabbit
 
-- 🔭 I'm currently making my udemy courses <a href="https://www.youtube.com/@devopswithbrian2283" target="_blank"><img alt="DevOps with Brian | Youtube" height="15px" src="YouTube.svg" /></a> and learning Korean, Japanese, Italian and Spanish
+- 🔭 I'm currently making my udemy courses <a href="https://www.youtube.com/@devopswithbrian2283" target="_blank"><img alt="DevOps with Brian | Youtube" height="15px" src="YouTube.svg" /></a> and learning Korean, Japanese, Italian, Spanish and Dutch
 
   - My 1st Udemy course:
 
@@ -40,9 +40,21 @@
 
       [DevOps Labs: 12 Real DevSecOps Projects](https://www.udemy.com/course/devops-labs-12-real-devsecops-projects/)
 
-  - My 6th Udemy course (WIP):
+  - My 6th Udemy course:
 
       [DevOps Labs: 15 Real DevSecOps Projects](https://www.udemy.com/course/devops-labs-15-real-devsecops-projects/)
+
+  - My 7th Udemy course (WIP):
+  
+      [DevOps Labs: 18 Real DevSecOps Projects](Coming soon)
+
+  - My 8th Udemy course (WIP):
+
+      [Full Stack Managing Kubernetes : From Local to Azure](Coming soon)
+
+  - My 9th Udemy course (WIP):
+  
+      [IT Contractor Success: Thriving in Toronto, Canada](Coming soon)
 
 - 📫 How to reach me: briansu2004@hotmail.com <a href="https://www.linkedin.com/in/brian-su-opentowork/" target="_blank"><img alt="brian Su | LinkedIn" width="20px" src="linkedin.svg" /></a>
 
