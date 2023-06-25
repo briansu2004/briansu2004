@@ -2,7 +2,9 @@
 
 ## 👍😊 Sono Brian Su
 
-<a href="https://www.udemy.com/course/devops-labs-15-real-devsecops-projects/">![DevOps Labs: 15 Real DevSecOps Projects](Udemy/Flyer-15-900x500.png)</a> 
+<a href="https://www.udemy.com/course/devops-labs-16-real-devops-projects/">![DevOps Labs: 16 Real DevOps Projects](Udemy/Flyer-16-900x500.png)</a> 
+
+<!-- <a href="https://www.udemy.com/course/devops-labs-15-real-devsecops-projects/">![DevOps Labs: 15 Real DevSecOps Projects](Udemy/Flyer-15-900x500.png)</a>  -->
 
 <!-- <a href="https://www.udemy.com/course/devops-labs-14-real-devops-projects/">![DevOps Labs: 14 Real DevOps Projects](Udemy/Flyer-14-900x500.png)</a> -->
 
