@@ -2,7 +2,7 @@
 
 ## 👍😊 Sono Brian Su
 
-<a href="https://www.udemy.com/course/devops-labs-16-real-devops-projects/">![DevOps Labs: 16 Real DevOps Projects](Udemy/Flyer-16-900x500.png)</a> 
+<a href="https://www.udemy.com/course/devops-labs-16-real-devops-projects/">![DevOps Labs: 16 Real DevOps Projects](Udemy/Flyer-16-900x500.png)</a>
 
 <!-- <a href="https://www.udemy.com/course/devops-labs-15-real-devsecops-projects/">![DevOps Labs: 15 Real DevSecOps Projects](Udemy/Flyer-15-900x500.png)</a>  -->
 
@@ -22,43 +22,41 @@
 
 - 🔭 I'm currently making my udemy courses <a href="https://www.youtube.com/@devopswithbrian2283" target="_blank"><img alt="DevOps with Brian | Youtube" height="15px" src="YouTube.svg" /></a> and learning Korean, Japanese, Italian, Spanish and Dutch
 
-  - My 1st Udemy course:
-
-      [DevOps Labs: 3 Real DevOps Projects](https://www.udemy.com/course/devops-labs-9-real-devops-projects-free-version/)
-
-  - My 2nd Udemy course:
-
-      [DevOps Labs: 6 Real DevOps Projects](https://www.udemy.com/course/devops-labs-6-real-devops-projects/)
-
-      <!-- https://lnkd.in/gbqMp9zq -->
-
-  - My 3rd Udemy course:
-
-      [DevOps Labs: 9 Real DevOps Projects](https://www.udemy.com/course/devops-labs-9-real-devops-projects/)
-
-  - My 4th Udemy course:
+  - My 9th Udemy course (WIP):
   
-      [DevOps Labs: 14 Real DevOps Projects](https://www.udemy.com/course/devops-labs-14-real-devops-projects/)
-
-  - My 5th Udemy course:
-
-      [DevOps Labs: 12 Real DevSecOps Projects](https://www.udemy.com/course/devops-labs-12-real-devsecops-projects/)
-
-  - My 6th Udemy course:
-
-      [DevOps Labs: 15 Real DevSecOps Projects](https://www.udemy.com/course/devops-labs-15-real-devsecops-projects/)
-
-  - My 7th Udemy course (WIP):
-  
-      [DevOps Labs: 18 Real DevSecOps Projects](Coming soon)
+      [IT Contractor Success: Thriving in Toronto, Canada](Coming soon)
 
   - My 8th Udemy course (WIP):
 
       [Full Stack Managing Kubernetes : From Local to Azure](Coming soon)
 
-  - My 9th Udemy course (WIP):
+  - My 7th Udemy course (WIP):
   
-      [IT Contractor Success: Thriving in Toronto, Canada](Coming soon)
+      [DevOps Labs: 18 Real DevSecOps Projects](https://www.udemy.com/course/devops-labs-16-real-devops-projects/)
+
+  - My 6th Udemy course:
+
+      [DevOps Labs: 15 Real DevSecOps Projects](https://www.udemy.com/course/devops-labs-15-real-devsecops-projects/)
+
+  - My 5th Udemy course:
+
+      [DevOps Labs: 12 Real DevSecOps Projects](https://www.udemy.com/course/devops-labs-12-real-devsecops-projects/)
+
+  - My 4th Udemy course:
+  
+      [DevOps Labs: 14 Real DevOps Projects](https://www.udemy.com/course/devops-labs-14-real-devops-projects/)
+
+  - My 3rd Udemy course:
+
+      [DevOps Labs: 9 Real DevOps Projects](https://www.udemy.com/course/devops-labs-9-real-devops-projects/)
+
+  - My 2nd Udemy course:
+
+      [DevOps Labs: 6 Real DevOps Projects](https://www.udemy.com/course/devops-labs-6-real-devops-projects/)
+
+  - My 1st Udemy course:
+
+      [DevOps Labs: 3 Real DevOps Projects](https://www.udemy.com/course/devops-labs-9-real-devops-projects-free-version/)
 
 - 📫 How to reach me: briansu2004@hotmail.com <a href="https://www.linkedin.com/in/brian-su-opentowork/" target="_blank"><img alt="brian Su | LinkedIn" width="20px" src="linkedin.svg" /></a>
 
