@@ -1,4 +1,4 @@
-# Hello Bonjour Hola Ciao おはよう 안녕하세요 Hallo 您好 😎
+# Hello Bonjour Hola Olá Ciao おはよう 안녕하세요 Hallo 您好 😎
 
 ## 👍😊 Sono Brian Su
 
@@ -20,19 +20,19 @@
 
 - My family has 3 major issues now 😭😭😭 Very difficult time since the beginning of 2023 and new year of rabbit
 
-- 🔭 I'm currently making my udemy courses <a href="https://www.youtube.com/@devopswithbrian2283" target="_blank"><img alt="DevOps with Brian | Youtube" height="15px" src="YouTube.svg" /></a> and learning Korean, Japanese, Italian, Spanish and Dutch
+- 🔭 I'm currently making my udemy courses <a href="https://www.youtube.com/@devopswithbrian2283" target="_blank"><img alt="DevOps with Brian | Youtube" height="15px" src="YouTube.svg" /></a> and learning Japanese, Korean, Italian, Portuguese, Spanish and Dutch
 
-  - My 9th Udemy course (WIP):
+  - My next Udemy courses (WIP):
   
       [IT Contractor Success: Thriving in Toronto, Canada](Coming soon)
 
-  - My 8th Udemy course (WIP):
-
       [Full Stack Managing Kubernetes : From Local to Azure](Coming soon)
 
-  - My 7th Udemy course (WIP):
+      [DevOps Labs: 18 Real DevSecOps Projects](Coming soon)
+
+  - My 7th Udemy course:
   
-      [DevOps Labs: 18 Real DevSecOps Projects](https://www.udemy.com/course/devops-labs-16-real-devops-projects/)
+      [DevOps Labs: 16 Real DevOps Projects](https://www.udemy.com/course/devops-labs-16-real-devops-projects/)
 
   - My 6th Udemy course:
 
