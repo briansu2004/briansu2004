@@ -30,6 +30,8 @@
 
       [DevOps Labs: 18 Real DevSecOps Projects](Coming soon)
 
+      [DevOps Interview Questions (2023)](Coming soon)
+
   - My 7th Udemy course:
   
       [DevOps Labs: 16 Real DevOps Projects](https://www.udemy.com/course/devops-labs-16-real-devops-projects/)
