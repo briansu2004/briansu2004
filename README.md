@@ -24,13 +24,17 @@
 
   - My next Udemy courses (WIP):
   
-      [IT Contractor Success: Thriving in Toronto, Canada](Coming soon)
+      [Managing Dask Kubernetes with Kubectl, Python and Go](Coming soon)
+
+      [Full Stack Managing Dask Kubernetes](Coming soon)
 
       [Full Stack Managing Kubernetes : From Local to Azure](Coming soon)
 
       [DevOps Labs: 18 Real DevSecOps Projects](Coming soon)
 
       [DevOps Interview Questions (2023)](Coming soon)
+
+      [IT Contractor Success: Thriving in Toronto, Canada](Coming soon)
 
   - My 7th Udemy course:
   
@@ -60,7 +64,7 @@
 
       [DevOps Labs: 3 Real DevOps Projects](https://www.udemy.com/course/devops-labs-9-real-devops-projects-free-version/)
 
-- 📫 How to reach me: briansu2004@hotmail.com <a href="https://www.linkedin.com/in/brian-su-opentowork/" target="_blank"><img alt="brian Su | LinkedIn" width="20px" src="linkedin.svg" /></a>
+- 📫 How to reach me: <briansu2004@hotmail.com> <a href="https://www.linkedin.com/in/brian-su-opentowork/" target="_blank"><img alt="brian Su | LinkedIn" width="20px" src="linkedin.svg" /></a>
 
 - ⚡ Fun fact: I am good at math and singing <a href="https://www.youtube.com/@singchanter8651" target="_blank"><img alt="Sing Chanter Cantar 唱 | Youtube" height="15px" src="YouTube.svg" /></a>
 
