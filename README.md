@@ -2,6 +2,8 @@
 
 ## 👍😊 Sono Brian Su
 
+<a href="https://www.udemy.com/course/managing-dask-kubernetes-with-kubectl-python-and-go/">![Managing Dask Kubernetes with Kubectl, Python and Go](Udemy/Flyer-Dask-LocalBackend-900x500.png)</a>
+
 <a href="https://www.udemy.com/course/devops-labs-16-real-devops-projects/">![DevOps Labs: 16 Real DevOps Projects](Udemy/Flyer-16-900x500.png)</a>
 
 <!-- <a href="https://www.udemy.com/course/devops-labs-15-real-devsecops-projects/">![DevOps Labs: 15 Real DevSecOps Projects](Udemy/Flyer-15-900x500.png)</a>  -->
