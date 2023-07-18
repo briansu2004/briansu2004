@@ -23,8 +23,6 @@
 - 🔭 I'm currently making my udemy courses <a href="https://www.youtube.com/@devopswithbrian2283" target="_blank"><img alt="DevOps with Brian | Youtube" height="15px" src="YouTube.svg" /></a> and learning Japanese, Korean, Italian, Portuguese, Spanish and Dutch
 
   - My next Udemy courses (WIP):
-  
-      [Managing Dask Kubernetes with Kubectl, Python and Go](Coming soon)
 
       [Full Stack Managing Dask Kubernetes](Coming soon)
 
@@ -35,6 +33,10 @@
       [DevOps Interview Questions (2023)](Coming soon)
 
       [IT Contractor Success: Thriving in Toronto, Canada](Coming soon)
+
+  - My 8th Udemy course:
+  
+      [Managing Dask Kubernetes with Kubectl, Python and Go](https://www.udemy.com/course/managing-dask-kubernetes-with-kubectl-python-and-go/)
 
   - My 7th Udemy course:
   
