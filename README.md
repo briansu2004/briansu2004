@@ -32,10 +32,6 @@
 
       [DevOps Labs: 18 Real DevSecOps Projects](Coming soon)
 
-      [DevOps Interview Questions (2023)](Coming soon)
-
-      [IT Contractor Interview Questions (2023)](Coming soon)
-
       [IT Contractor Success: Thriving in Toronto, Canada](Coming soon)
 
   - My 10th Udemy course:
