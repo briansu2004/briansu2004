@@ -38,6 +38,14 @@
 
       [IT Contractor Success: Thriving in Toronto, Canada](Coming soon)
 
+  - My 10th Udemy course:
+  
+      [IT Contractor Interview Questions (2023)](Comisng soon)
+
+  - My 9th Udemy course:
+  
+      [DevOps Interview Questions (2023)](Comisng soon)
+
   - My 8th Udemy course:
   
       [Managing Dask Kubernetes with Kubectl, Python and Go](https://www.udemy.com/course/managing-dask-kubernetes-with-kubectl-python-and-go/)
