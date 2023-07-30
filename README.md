@@ -40,7 +40,7 @@
 
   - My 9th Udemy course:
   
-      [DevOps Interview Questions (2023)](Comisng soon)
+      [DevOps Interview Questions (2023)](https://www.udemy.com/course/devops-interview-questions-20xx)
 
   - My 8th Udemy course:
   
