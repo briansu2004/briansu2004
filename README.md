@@ -2,14 +2,22 @@
 
 ## 👍😊 Sono Brian Su
 
+<table>
+<tr>
+<td><a href="https://www.udemy.com/course/devops-labs-16-real-devops-projects/"><img src="Udemy/Flyer-16-300x500.png"></a></td>
+<td><a href="https://www.udemy.com/course/managing-dask-kubernetes-with-kubectl-python-and-go/"><img src="Udemy/Flyer-Dask-300x500.png"></a></td>
+<td><a href="https://www.udemy.com/course/devops-interview-questions-20xx/"><img src="Udemy/Flyer-IW-DevOps-300x500.png"></a></td>
+</tr>
+</table>
 
+
+<!--
 <a href="https://www.udemy.com/course/devops-labs-16-real-devops-projects/">![DevOps Labs: 16 Real DevOps Projects](Udemy/Flyer-16-300x500.png)</a>
 
 <a href="https://www.udemy.com/course/managing-dask-kubernetes-with-kubectl-python-and-go/">![Managing Dask Kubernetes with Kubectl, Python and Go](Udemy/Flyer-Dask-300x500.png)</a>
 
 <a href="https://www.udemy.com/course/devops-interview-questions-20xx/">![DevOps Interview Questions (2023)](Udemy/Flyer-IW-DevOps-300x500.png)</a>
-
-
+-->
 
 <!-- <a href="https://www.udemy.com/course/managing-dask-kubernetes-with-kubectl-python-and-go/">![Managing Dask Kubernetes with Kubectl, Python and Go](Udemy/Flyer-Dask-Local-Backend-900x500.png)</a>
 
