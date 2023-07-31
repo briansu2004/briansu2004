@@ -1,10 +1,21 @@
-# Hello Bonjour Hola Olá Ciao おはよう 안녕하세요 Hallo 您好 😎
+# Hello Hallo Bonjour Hola Olá Ciao おはよう 안녕하세요 Hallo 您好 😎
 
 ## 👍😊 Sono Brian Su
 
-<a href="https://www.udemy.com/course/managing-dask-kubernetes-with-kubectl-python-and-go/">![Managing Dask Kubernetes with Kubectl, Python and Go](Udemy/Flyer-Dask-LocalBackend-900x500.png)</a>
+
+<a href="https://www.udemy.com/course/devops-labs-16-real-devops-projects/">![DevOps Labs: 16 Real DevOps Projects](Udemy/Flyer-16-300x500.png)</a>
+
+<a href="https://www.udemy.com/course/managing-dask-kubernetes-with-kubectl-python-and-go/">![Managing Dask Kubernetes with Kubectl, Python and Go](Udemy/Flyer-Dask-300x500.png)</a>
+
+<a href="https://www.udemy.com/course/devops-interview-questions-20xx/">![DevOps Interview Questions (2023)](Udemy/Flyer-IW-DevOps-300x500.png)</a>
+
+
+
+<!-- <a href="https://www.udemy.com/course/managing-dask-kubernetes-with-kubectl-python-and-go/">![Managing Dask Kubernetes with Kubectl, Python and Go](Udemy/Flyer-Dask-Local-Backend-900x500.png)</a>
 
 <a href="https://www.udemy.com/course/devops-labs-16-real-devops-projects/">![DevOps Labs: 16 Real DevOps Projects](Udemy/Flyer-16-900x500.png)</a>
+ -->
+
 
 <!-- <a href="https://www.udemy.com/course/devops-labs-15-real-devsecops-projects/">![DevOps Labs: 15 Real DevSecOps Projects](Udemy/Flyer-15-900x500.png)</a>  -->
 
@@ -22,7 +33,7 @@
 
 - My family has 3 major issues now 😭😭😭 Very difficult time since the beginning of 2023 and new year of rabbit
 
-- 🔭 I'm currently making my udemy courses <a href="https://www.youtube.com/@devopswithbrian2283" target="_blank"><img alt="DevOps with Brian | Youtube" height="15px" src="YouTube.svg" /></a> and learning Japanese, Korean, Italian, Portuguese, Spanish and Dutch
+- 🔭 I'm currently making my udemy courses <a href="https://www.youtube.com/@devopswithbrian2283" target="_blank"><img alt="DevOps with Brian | Youtube" height="15px" src="YouTube.svg" /></a> and learning German, Japanese, Korean, Italian, Portuguese, Spanish and Dutch
 
   - My next Udemy courses (WIP):
 
