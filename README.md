@@ -2,17 +2,7 @@
 
 ## 👍😊 Sono Brian Su
 
-<table style="border: 0; border-collapse: collapse;">
-    <tr>
-        <td style="padding: 0; margin: 0;">
-            <a href="https://www.udemy.com/course/devops-labs-16-real-devops-projects/"><img src="Udemy/Flyer-16-300x500.png" style="padding: 0; margin: 0;"></a>
-            <a href="https://www.udemy.com/course/managing-dask-kubernetes-with-kubectl-python-and-go/"><img src="Udemy/Flyer-Dask-300x500.png" style="padding: 0; margin: 0;"></a>
-            <a href="https://www.udemy.com/course/devops-interview-questions-20xx/"><img src="Udemy/Flyer-IW-DevOps-300x500.png" style="padding: 0; margin: 0;"></a>
-        </td>
-    </tr>
-</table>
 
-<!--
 <table style="border: 0; border-collapse: collapse;">
     <tr>
         <td style="padding: 0; margin: 0;">
@@ -26,25 +16,6 @@
         </td>
     </tr>
 </table>
--->
-
-<!--
-<a href="https://www.udemy.com/course/devops-labs-16-real-devops-projects/">![DevOps Labs: 16 Real DevOps Projects](Udemy/Flyer-16-300x500.png)</a>
-
-<a href="https://www.udemy.com/course/managing-dask-kubernetes-with-kubectl-python-and-go/">![Managing Dask Kubernetes with Kubectl, Python and Go](Udemy/Flyer-Dask-300x500.png)</a>
-
-<a href="https://www.udemy.com/course/devops-interview-questions-20xx/">![DevOps Interview Questions (2023)](Udemy/Flyer-IW-DevOps-300x500.png)</a>
--->
-
-<!-- <a href="https://www.udemy.com/course/managing-dask-kubernetes-with-kubectl-python-and-go/">![Managing Dask Kubernetes with Kubectl, Python and Go](Udemy/Flyer-Dask-Local-Backend-900x500.png)</a>
-
-<a href="https://www.udemy.com/course/devops-labs-16-real-devops-projects/">![DevOps Labs: 16 Real DevOps Projects](Udemy/Flyer-16-900x500.png)</a>
- -->
-
-
-<!-- <a href="https://www.udemy.com/course/devops-labs-15-real-devsecops-projects/">![DevOps Labs: 15 Real DevSecOps Projects](Udemy/Flyer-15-900x500.png)</a>  -->
-
-<!-- <a href="https://www.udemy.com/course/devops-labs-14-real-devops-projects/">![DevOps Labs: 14 Real DevOps Projects](Udemy/Flyer-14-900x500.png)</a> -->
 
 <!--
 - 🔭 I'm currently coding.
