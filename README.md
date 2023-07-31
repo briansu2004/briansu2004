@@ -2,7 +2,7 @@
 
 ## 👍😊 Sono Brian Su
 
-<table>
+<table style="border: 0px; margin: 0px">
 <tr>
 <td><a href="https://www.udemy.com/course/devops-labs-16-real-devops-projects/"><img src="Udemy/Flyer-16-300x500.png"></a></td>
 <td><a href="https://www.udemy.com/course/managing-dask-kubernetes-with-kubectl-python-and-go/"><img src="Udemy/Flyer-Dask-300x500.png"></a></td>
