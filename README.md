@@ -2,7 +2,6 @@
 
 ## 👍😊 Sono Brian Su
 
-
 <table style="border: 0; border-collapse: collapse;">
     <tr>
         <td style="padding: 0; margin: 0;">
@@ -41,9 +40,13 @@
 
       [IT Contractor Success: Thriving in Toronto, Canada](Coming soon)
 
-  - My 10th Udemy course:
+  - My 11th Udemy course:
   
       [IT Contractor Interview Questions (2023)](Comisng soon)
+
+  - My 10th Udemy course:
+  
+      [IT Contractor Behavioral Interview Questions (2023)](https://www.udemy.com/course/it-contractor-behavioral-interview-questions-20xx)
 
   - My 9th Udemy course:
   
