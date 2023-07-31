@@ -2,12 +2,12 @@
 
 ## 👍😊 Sono Brian Su
 
-<table style="border: 0px; margin: 0px">
-<tr>
-<td><a href="https://www.udemy.com/course/devops-labs-16-real-devops-projects/"><img src="Udemy/Flyer-16-300x500.png"></a></td>
-<td><a href="https://www.udemy.com/course/managing-dask-kubernetes-with-kubectl-python-and-go/"><img src="Udemy/Flyer-Dask-300x500.png"></a></td>
-<td><a href="https://www.udemy.com/course/devops-interview-questions-20xx/"><img src="Udemy/Flyer-IW-DevOps-300x500.png"></a></td>
-</tr>
+<table style="border: 0px; border-collapse: collapse;">
+    <tr>
+        <td style="padding: 0; margin: 0;"><a href="https://www.udemy.com/course/devops-labs-16-real-devops-projects/"><img src="Udemy/Flyer-16-300x500.png"></a></td>
+        <td style="padding: 0; margin: 0;"><a href="https://www.udemy.com/course/managing-dask-kubernetes-with-kubectl-python-and-go/"><img src="Udemy/Flyer-Dask-300x500.png"></a></td>
+        <td style="padding: 0; margin: 0;"><a href="https://www.udemy.com/course/devops-interview-questions-20xx/"><img src="Udemy/Flyer-IW-DevOps-300x500.png"></a></td>
+    </tr>
 </table>
 
 
