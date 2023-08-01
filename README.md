@@ -1,6 +1,8 @@
 # Hello Hallo Bonjour Hola Olá Ciao おはよう 안녕하세요 Hallo 您好 😎
 
-## 👍😊 Sono Brian Su
+## 👍😊 Ich bin Brian Su
+
+<!-- Sono Brian Su -->
 
 <table style="border: 0; border-collapse: collapse;">
     <tr>
@@ -42,7 +44,7 @@
 
   - My 11th Udemy course:
   
-      [IT Contractor Interview Questions (2023)](Comisng soon)
+      [IT Contractor Interview Questions (2023)](https://www.udemy.com/course/it-contractor-interview-questions-20xx)
 
   - My 10th Udemy course:
   
