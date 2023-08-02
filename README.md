@@ -34,11 +34,11 @@
 
   - My next Udemy courses (WIP):
 
+      [DevOps Labs: 18 Real DevSecOps Projects](Coming soon)
+
       [Full Stack Managing Dask Kubernetes](Coming soon)
 
       [Full Stack Managing Kubernetes : From Local to Azure](Coming soon)
-
-      [DevOps Labs: 18 Real DevSecOps Projects](Coming soon)
 
       [IT Contractor Success: Thriving in Toronto, Canada](Coming soon)
 
