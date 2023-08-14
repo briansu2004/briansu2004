@@ -42,6 +42,10 @@
 
       [IT Contractor Success: Thriving in Toronto, Canada](Coming soon)
 
+  - My 12th Udemy course:
+  
+      [IT Contractor .Net and C# Interview Questions (2023)](https://www.udemy.com/course/it-contractor-net-and-c-interview-questions-20xx/)
+
   - My 11th Udemy course:
   
       [IT Contractor Interview Questions (2023)](https://www.udemy.com/course/it-contractor-interview-questions-20xx)
