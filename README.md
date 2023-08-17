@@ -42,6 +42,14 @@
 
       [IT Contractor Success: Thriving in Toronto, Canada](Coming soon)
 
+  - My 14th Udemy course:
+  
+      [IT Contractor Google Cloud (GCP) Interview Questions (2023)](Coming soon)
+
+  - My 13th Udemy course:
+  
+      [IT Contractor Angular Interview Questions (2023)](https://www.udemy.com/course/it-contractor-angular-interview-questions-20xx/)
+
   - My 12th Udemy course:
   
       [IT Contractor .Net and C# Interview Questions (2023)](https://www.udemy.com/course/it-contractor-net-and-c-interview-questions-20xx/)
