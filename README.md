@@ -30,11 +30,9 @@
 
 - My family has 3 major issues now 😭😭😭 Very difficult time since the beginning of 2023 and new year of rabbit
 
-- 🔭 I'm currently making my udemy courses <a href="https://www.youtube.com/@devopswithbrian2283" target="_blank"><img alt="DevOps with Brian | Youtube" height="15px" src="YouTube.svg" /></a> and learning German, Japanese, Korean, Italian, Portuguese, Spanish and Dutch
+- 🔭 I'm currently making my udemy courses <a href="https://www.youtube.com/@devopswithbrian2283" target="_blank"><img alt="DevOps with Brian | Youtube" height="15px" src="YouTube.svg" /></a> and learning German, Japanese, Korean, Italian, Portuguese, Spanish, Dutch and French.
 
   - My next Udemy courses (WIP):
-
-      [DevOps Labs: 18 Real DevSecOps Projects](Coming soon)
 
       [Full Stack Managing Dask Kubernetes](Coming soon)
 
@@ -42,9 +40,13 @@
 
       [IT Contractor Success: Thriving in Toronto, Canada](Coming soon)
 
+  - My 15th Udemy course:
+
+      [DevOps Labs: 18 Real DevSecOps Projects](Coming soon)
+
   - My 14th Udemy course:
   
-      [IT Contractor Google Cloud (GCP) Interview Questions (2023)](Coming soon)
+      [IT Contractor Google Cloud (GCP) Interview Questions (2023)](https://www.udemy.com/course/it-contractor-google-cloud-gcp-interview-questions-20xx)
 
   - My 13th Udemy course:
   
