@@ -48,13 +48,13 @@
 
     [Ace Your Google Cloud (GCP) Job Interviews](https://www.udemy.com/course/it-contractor-google-cloud-gcp-interview-questions-20xx)
 
-  - My 13th Udemy course:
+  <!-- - My 13th Udemy course:
 
     [IT Contractor Angular Interview Questions (2023)](https://www.udemy.com/course/it-contractor-angular-interview-questions-20xx/)
 
   - My 12th Udemy course:
 
-    [IT Contractor .Net and C# Interview Questions (2023)](https://www.udemy.com/course/it-contractor-net-and-c-interview-questions-20xx/)
+    [IT Contractor .Net and C# Interview Questions (2023)](https://www.udemy.com/course/it-contractor-net-and-c-interview-questions-20xx/) -->
 
   - My 11th Udemy course:
 
