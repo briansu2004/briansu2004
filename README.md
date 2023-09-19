@@ -34,71 +34,71 @@
 
   - My next Udemy courses (WIP):
 
-      [Full Stack Managing Dask Kubernetes](Coming soon)
+    [Full Stack Managing Dask Kubernetes](Coming soon)
 
-      [Full Stack Managing Kubernetes : From Local to Azure](Coming soon)
+    [Full Stack Managing Kubernetes : From Local to Azure](Coming soon)
 
-      [IT Contractor Success: Thriving in Toronto, Canada](Coming soon)
+    [IT Contractor Success: Thriving in Toronto, Canada](Coming soon)
 
   - My 15th Udemy course:
 
-      [DevOps Labs: 18 Real DevSecOps Projects](Coming soon)
+    [DevOps Labs: 18 Real DevSecOps Projects](Coming soon)
 
   - My 14th Udemy course:
-  
-      [IT Contractor Google Cloud (GCP) Interview Questions (2023)](https://www.udemy.com/course/it-contractor-google-cloud-gcp-interview-questions-20xx)
+
+    [Ace Your Google Cloud (GCP) Job Interviews](https://www.udemy.com/course/it-contractor-google-cloud-gcp-interview-questions-20xx)
 
   - My 13th Udemy course:
-  
-      [IT Contractor Angular Interview Questions (2023)](https://www.udemy.com/course/it-contractor-angular-interview-questions-20xx/)
+
+    [IT Contractor Angular Interview Questions (2023)](https://www.udemy.com/course/it-contractor-angular-interview-questions-20xx/)
 
   - My 12th Udemy course:
-  
-      [IT Contractor .Net and C# Interview Questions (2023)](https://www.udemy.com/course/it-contractor-net-and-c-interview-questions-20xx/)
+
+    [IT Contractor .Net and C# Interview Questions (2023)](https://www.udemy.com/course/it-contractor-net-and-c-interview-questions-20xx/)
 
   - My 11th Udemy course:
-  
-      [IT Contractor Interview Questions (2023)](https://www.udemy.com/course/it-contractor-interview-questions-20xx)
+
+    [IT Contractor Interview Questions (2023)](https://www.udemy.com/course/it-contractor-interview-questions-20xx)
 
   - My 10th Udemy course:
-  
-      [IT Contractor Behavioral Interview Questions (2023)](https://www.udemy.com/course/it-contractor-behavioral-interview-questions-20xx)
+
+    [IT Contractor Behavioral Interview Questions (2023)](https://www.udemy.com/course/it-contractor-behavioral-interview-questions-20xx)
 
   - My 9th Udemy course:
-  
-      [DevOps Interview Questions (2023)](https://www.udemy.com/course/devops-interview-questions-20xx)
+
+    [DevOps Interview Questions (2023)](https://www.udemy.com/course/devops-interview-questions-20xx)
 
   - My 8th Udemy course:
-  
-      [Managing Dask Kubernetes with Kubectl, Python and Go](https://www.udemy.com/course/managing-dask-kubernetes-with-kubectl-python-and-go/)
+
+    [Managing Dask Kubernetes with Kubectl, Python and Go](https://www.udemy.com/course/managing-dask-kubernetes-with-kubectl-python-and-go/)
 
   - My 7th Udemy course:
-  
-      [DevOps Labs: 16 Real DevOps Projects](https://www.udemy.com/course/devops-labs-16-real-devops-projects/)
+
+    [DevOps Labs: 16 Real DevOps Projects](https://www.udemy.com/course/devops-labs-16-real-devops-projects/)
 
   - My 6th Udemy course:
 
-      [DevOps Labs: 15 Real DevSecOps Projects](https://www.udemy.com/course/devops-labs-15-real-devsecops-projects/)
+    [DevOps Labs: 15 Real DevSecOps Projects](https://www.udemy.com/course/devops-labs-15-real-devsecops-projects/)
 
   - My 5th Udemy course:
 
-      [DevOps Labs: 12 Real DevSecOps Projects](https://www.udemy.com/course/devops-labs-12-real-devsecops-projects/)
+    [DevOps Labs: 12 Real DevSecOps Projects](https://www.udemy.com/course/devops-labs-12-real-devsecops-projects/)
 
   - My 4th Udemy course:
-  
-      [DevOps Labs: 14 Real DevOps Projects](https://www.udemy.com/course/devops-labs-14-real-devops-projects/)
+
+    [DevOps Labs: 14 Real DevOps Projects](https://www.udemy.com/course/devops-labs-14-real-devops-projects/)
 
   - My 3rd Udemy course:
 
-      [DevOps Labs: 9 Real DevOps Projects](https://www.udemy.com/course/devops-labs-9-real-devops-projects/)
+    [DevOps Labs: 9 Real DevOps Projects](https://www.udemy.com/course/devops-labs-9-real-devops-projects/)
 
   - My 2nd Udemy course:
 
-      [DevOps Labs: 6 Real DevOps Projects](https://www.udemy.com/course/devops-labs-6-real-devops-projects/)
+    [DevOps Labs: 6 Real DevOps Projects](https://www.udemy.com/course/devops-labs-6-real-devops-projects/)
 
   - My 1st Udemy course:
 
-      [DevOps Labs: 3 Real DevOps Projects](https://www.udemy.com/course/devops-labs-9-real-devops-projects-free-version/)
+    [DevOps Labs: 3 Real DevOps Projects](https://www.udemy.com/course/devops-labs-9-real-devops-projects-free-version/)
 
 - 📫 How to reach me: <briansu2004@hotmail.com> <a href="https://www.linkedin.com/in/brian-su-opentowork/" target="_blank"><img alt="brian Su | LinkedIn" width="20px" src="linkedin.svg" /></a>
 
@@ -245,5 +245,5 @@ briansu2004@hotmail.com
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/BRIANSU2004) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/briansu2004)
 
 <!-- [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/mtechviral) -->
-  
+
 <!-- paypal.me/briansu2004 -->
