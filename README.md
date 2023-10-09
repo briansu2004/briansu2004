@@ -1,4 +1,4 @@
-# Hello Hallo Bonjour Hola Olá Ciao おはよう 안녕하세요 Hallo 您好 😎
+# Hello Hallo Bonjour Hola Olá Ciao おはよう 안녕하세요 Hallo 咩事 您好 😎
 
 ## 👍😊 Ich bin Brian Su
 
@@ -30,7 +30,7 @@
 
 - My family has 3 major issues now 😭😭😭 Very difficult time since the beginning of 2023 and new year of rabbit
 
-- 🔭 I'm currently making my udemy courses <a href="https://www.youtube.com/@devopswithbrian2283" target="_blank"><img alt="DevOps with Brian | Youtube" height="15px" src="YouTube.svg" /></a> and learning German, Japanese, Korean, Italian, Portuguese, Spanish, Dutch and French.
+- 🔭 I'm currently making my udemy courses <a href="https://www.youtube.com/@devopswithbrian2283" target="_blank"><img alt="DevOps with Brian | Youtube" height="15px" src="YouTube.svg" /></a> and learning Cantonese, German, Japanese, Korean, Italian, Portuguese, Spanish, Dutch and French.
 
   - My next Udemy courses (WIP):
 
@@ -58,11 +58,15 @@
 
   - My 11th Udemy course:
 
-    [IT Contractor Interview Questions (2023)](https://www.udemy.com/course/it-contractor-interview-questions-20xx)
+    <!-- [IT Contractor Interview Questions (2023)](https://www.udemy.com/course/it-contractor-interview-questions-20xx) -->
+
+    [IT Interview Questions (2023)](https://www.udemy.com/course/it-contractor-interview-questions-20xx)
 
   - My 10th Udemy course:
 
-    [IT Contractor Behavioral Interview Questions (2023)](https://www.udemy.com/course/it-contractor-behavioral-interview-questions-20xx)
+    <!-- [IT Contractor Behavioral Interview Questions (2023)](https://www.udemy.com/course/it-contractor-behavioral-interview-questions-20xx) -->
+
+    [IT Behavioral Interview Questions (2023)](https://www.udemy.com/course/it-contractor-behavioral-interview-questions-20xx)
 
   - My 9th Udemy course:
 
@@ -70,7 +74,9 @@
 
   - My 8th Udemy course:
 
-    [Managing Dask Kubernetes with Kubectl, Python and Go](https://www.udemy.com/course/managing-dask-kubernetes-with-kubectl-python-and-go/)
+    <!-- [Managing Dask Kubernetes with Kubectl, Python and Go](https://www.udemy.com/course/managing-dask-kubernetes-with-kubectl-python-and-go/) -->
+
+    [Efficient Kubernetes Management with Python and Go](https://www.udemy.com/course/managing-dask-kubernetes-with-kubectl-python-and-go/)
 
   - My 7th Udemy course:
 
