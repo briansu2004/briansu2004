@@ -1,4 +1,19 @@
-# Hello Hallo Bonjour Hola Olá Ciao おはよう 안녕하세요 Hallo 咩事 您好 😎
+# Hello Γειά σου Guten Tag Hola Olá Ciao おはよう 안녕하세요 Dag Bonjour 咩事 您好 😎
+
+<!--
+01: English: Hello
+02: Greek: Γειά σου
+03: German: Guten Tag / Hi / Hallo
+04: Spanish: Hola
+05: Portuguese: Olá
+06: Italian: Ciao
+07: Japanese: おはよう 
+08: Korean: 안녕하세요
+09: Dutch: Dag / Hoi / Hallo
+10: French: Bonjour
+11: Cantonese: 咩事
+12: Mandarin: 您好
+-->
 
 ## 👍😊 Ich bin Brian Su
 
@@ -30,7 +45,7 @@
 
 - My family has 3 major issues now 😭😭😭 Very difficult time since the beginning of 2023 and new year of rabbit
 
-- 🔭 I'm currently making my udemy courses <a href="https://www.youtube.com/@devopswithbrian2283" target="_blank"><img alt="DevOps with Brian | Youtube" height="15px" src="YouTube.svg" /></a> and learning Cantonese, German, Japanese, Korean, Italian, Portuguese, Spanish, Dutch and French.
+- 🔭 I'm currently making my udemy courses <a href="https://www.youtube.com/@devopswithbrian2283" target="_blank"><img alt="DevOps with Brian | Youtube" height="15px" src="YouTube.svg" /></a> and learning Cantonese, Greek, German, Japanese, Korean, Italian, Portuguese, Spanish, Dutch and French - total 12!
 
   - My next Udemy courses (WIP):
 
@@ -38,15 +53,17 @@
 
     [Full Stack Managing Kubernetes : From Local to Azure](Coming soon)
 
+    [DevOps Labs: 18 Real DevSecOps Projects](Coming soon)
+
     [IT Contractor Success: Thriving in Toronto, Canada](Coming soon)
 
   - My 15th Udemy course:
 
-    [DevOps Labs: 18 Real DevSecOps Projects](Coming soon)
+    [Maven Mastery: Kickstart Your Java Projects](https://www.udemy.com/)
 
   - My 14th Udemy course:
 
-    [Ace Your Google Cloud (GCP) Job Interviews](https://www.udemy.com/course/it-contractor-google-cloud-gcp-interview-questions-20xx)
+    [Ace Your Google Cloud (GCP) Job Interviews (2023)](https://www.udemy.com/course/it-contractor-google-cloud-gcp-interview-questions-20xx)
 
   <!-- - My 13th Udemy course:
 
