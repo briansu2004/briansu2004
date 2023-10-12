@@ -7,12 +7,19 @@
 04: Spanish: Hola
 05: Portuguese: Olá
 06: Italian: Ciao
-07: Japanese: おはよう 
+07: Japanese: おはよう
 08: Korean: 안녕하세요
 09: Dutch: Dag / Hoi / Hallo
 10: French: Bonjour
 11: Cantonese: 咩事
 12: Mandarin: 您好
+
+...
+
+13: Hindi: नमस्ते
+14: Vietnamese: Xin chào
+15: Arabic: مرحبًا
+16: Russian: Привет
 -->
 
 ## 👍😊 Ich bin Brian Su
