@@ -66,7 +66,7 @@
 
   - My 15th Udemy course:
 
-    [Maven Mastery: Kickstart Your Java Projects](https://www.udemy.com/)
+    [Maven Mastery: Kickstart Your Java Projects](https://www.udemy.com/course/maven-mastery-kickstart-your-java-projects/)
 
   - My 14th Udemy course:
 
