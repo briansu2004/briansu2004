@@ -56,8 +56,6 @@
 
   - My next Udemy courses (WIP):
 
-    [React Mastery: Kickstart Your Full Stack Projects](Coming Soon)
-
     [Angular Mastery: Kickstart Your Full Stack Projects](Coming Soon)
 
     [VUE Mastery: Kickstart Your Full Stack Projects](Coming Soon)
@@ -81,6 +79,10 @@
     [DevOps Labs: 18 Real DevSecOps Projects](Coming soon)
 
     [IT Contractor Success: Thriving in Toronto, Canada](Coming soon)
+
+- My 16th Udemy course:
+
+  [React Rapidstart: Creating an Responsive React App in 1 hour](https://www.udemy.com/course/maven-mastery-kickstart-your-java-projects/)
 
 - My 15th Udemy course:
 
