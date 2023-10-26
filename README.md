@@ -56,9 +56,11 @@
 
   - My next Udemy courses (WIP):
 
+    [Struts Mastery: Quickstart Your Java Projects](Coming Soon)
+
     [Angular Mastery: Kickstart Your Full Stack Projects](Coming Soon)
 
-    [VUE Mastery: Kickstart Your Full Stack Projects](Coming Soon)
+    [VUE Mastery: Quickstart Your Full Stack Projects](Coming Soon)
 
     [NPM Mastery: Kickstart Your NodeJS Projects](Coming Soon)
 
@@ -80,9 +82,15 @@
 
     [IT Contractor Success: Thriving in Toronto, Canada](Coming soon)
 
+- My 17th Udemy course:
+
+  [Struts Mastery: Quickstart Your Java Projects](https://www.udemy.com/course/react-rapidstart-creating-an-responsive-react-app-in-1-hour)
+
 - My 16th Udemy course:
 
-  [React Rapidstart: Creating an Responsive React App in 1 hour](https://www.udemy.com/course/maven-mastery-kickstart-your-java-projects/)
+  [React Mastery: Rapidstart Your Responsive App](https://www.udemy.com/course/react-rapidstart-creating-an-responsive-react-app-in-1-hour)
+
+<!-- [React Rapidstart: Creating an Responsive React App in 1 hour](https://www.udemy.com/course/maven-mastery-kickstart-your-java-projects/) -->
 
 - My 15th Udemy course:
 
