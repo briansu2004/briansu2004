@@ -84,7 +84,7 @@
 
 - My 17th Udemy course:
 
-  [Struts Mastery: Quickstart Your Java Projects](https://www.udemy.com/course/react-rapidstart-creating-an-responsive-react-app-in-1-hour)
+  [Struts Savvy: Quickstart Your Java Projects](https://www.udemy.com/course/react-rapidstart-creating-an-responsive-react-app-in-1-hour)
 
 - My 16th Udemy course:
 
@@ -291,6 +291,8 @@ briansu2004@hotmail.com
   -->
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=briansu2004&theme=vue" height="120" />
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briansu2004&layout=compact&langs_count=20&theme=rose_pine" height="120" />
 
 <!--
 ## ✍️👩‍💻 Random Dev Quote
