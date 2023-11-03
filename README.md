@@ -285,14 +285,11 @@ briansu2004@hotmail.com
 ![My GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=briansu2004&layout=compact&card_width=250&langs_count=20&theme=rose_pine)
 -->
 
-<p align="left">
-  <!--
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briansu2004&layout=compact&langs_count=20&theme=rose_pine" height="120" />
-  -->
+<!-- <p align="left">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=briansu2004&theme=vue" height="120" />
-</p>
+</p> -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briansu2004&layout=compact&langs_count=20&theme=rose_pine" height="120" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briansu2004&layout=compact&langs_count=20&theme=rose_pine"/>
 
 <!--
 ## ✍️👩‍💻 Random Dev Quote
