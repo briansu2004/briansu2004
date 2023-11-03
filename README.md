@@ -274,7 +274,7 @@ briansu2004@hotmail.com
 
 ## 💳📈 Github Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=briansu2004&theme=vue" height="120"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=briansu2004&theme=vue"/>
 
 <!--
 <p align="left">
