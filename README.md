@@ -56,7 +56,7 @@
 
   - My next Udemy courses (WIP):
 
-    [Struts Mastery: Quickstart Your Java Projects](Coming Soon)
+    [Spring MVC Mastery: Quickstart Your Java Projects](Coming Soon)
 
     [Angular Mastery: Kickstart Your Full Stack Projects](Coming Soon)
 
@@ -82,9 +82,13 @@
 
     [IT Contractor Success: Thriving in Toronto, Canada](Coming soon)
 
+- My 18th Udemy course:
+
+  [Spring MVC Mastery: Quickstart Your Java Projects](https://www.udemy.com/course/struts-savvy-quickstart-your-java-projects/)
+
 - My 17th Udemy course:
 
-  [Struts Savvy: Quickstart Your Java Projects](https://www.udemy.com/course/react-rapidstart-creating-an-responsive-react-app-in-1-hour)
+  [Struts Savvy: Quickstart Your Java Projects](https://www.udemy.com/course/struts-savvy-quickstart-your-java-projects/)
 
 - My 16th Udemy course:
 
@@ -289,7 +293,7 @@ briansu2004@hotmail.com
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=briansu2004&theme=vue" height="120" />
 </p> -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briansu2004&layout=compact&langs_count=20&theme=rose_pine"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briansu2004&layout=compact&langs_count=20&theme=rose_pine"/> -->
 
 <!--
 ## ✍️👩‍💻 Random Dev Quote
