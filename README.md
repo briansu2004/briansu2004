@@ -56,8 +56,6 @@
 
   - My next Udemy courses (WIP):
 
-    [Spring MVC Mastery: Quickstart Your Java Projects](Coming Soon)
-
     [Angular Mastery: Kickstart Your Full Stack Projects](Coming Soon)
 
     [VUE Mastery: Quickstart Your Full Stack Projects](Coming Soon)
@@ -84,7 +82,7 @@
 
 - My 18th Udemy course:
 
-  [Spring MVC Mastery: Quickstart Your Java Projects](https://www.udemy.com/course/struts-savvy-quickstart-your-java-projects/)
+  [Spring MVC Mastery: Jumpstart Your Java Projects](https://www.udemy.com/course/spring-mvc-mastery-jumpstart-your-java-projects)
 
 - My 17th Udemy course:
 
