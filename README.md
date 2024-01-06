@@ -50,11 +50,13 @@
 - ⚡ Fun fact: I am good at math and singing <a href="https://www.youtube.com/@singchanter8651" target="_blank"><img alt="brian Su | Youtube" height="15px" src="YouTube.svg" /></a>
 -->
 
-- My family has 3 major issues now 😭😭😭 Very difficult time since the beginning of 2023 and new year of rabbit
+<!-- - My family has 3 major issues now 😭😭😭 Very difficult time since the beginning of 2023 and new year of rabbit -->
 
-- 🔭 I'm currently making my udemy courses <a href="https://www.youtube.com/@devopswithbrian2283" target="_blank"><img alt="DevOps with Brian | Youtube" height="15px" src="YouTube.svg" /></a> and learning Cantonese, Greek, German, Japanese, Korean, Italian, Portuguese, Spanish, Dutch and French - total 12!
+- 🔭 I'm currently making my udemy courses <a href="https://www.youtube.com/@devopswithbrian2283" target="_blank"><img alt="DevOps with Brian | Youtube" height="15px" src="YouTube.svg" /></a> and learning Cantonese, Japanese, Korean, Spanish, Italian, Portuguese, Greek, German, Dutch and French - total 12 speaking languages!
 
   - My next Udemy courses (WIP):
+
+    [Mendix Magic: Mobilize Your Responsive Apps with No Code](Coming soon)
 
     [Angular Mastery: Kickstart Your Full Stack Projects](Coming Soon)
 
@@ -80,9 +82,13 @@
 
     [IT Contractor Success: Thriving in Toronto, Canada](Coming soon)
 
+- My 19th Udemy course:
+
+  [Mendix Magic: Mobilize Your Responsive Apps with No Code](https://www.udemy.com/user/brian-su-18/)
+
 - My 18th Udemy course:
 
-  [Spring MVC Mastery: Jumpstart Your Java Projects](https://www.udemy.com/course/spring-mvc-mastery-jumpstart-your-java-projects)
+  [Spring MVC Mastery: Jumpstart Your Java Projects](https://www.udemy.com/course/spring-mvc-mastery-jumpstart-your-java-projects/)
 
 - My 17th Udemy course:
 
@@ -90,9 +96,9 @@
 
 - My 16th Udemy course:
 
-  [React Mastery: Rapidstart Your Responsive App](https://www.udemy.com/course/react-rapidstart-creating-an-responsive-react-app-in-1-hour)
+  [React Mastery: Rapidstart Your Responsive App](https://www.udemy.com/course/react-rapidstart-creating-an-responsive-react-app-in-1-hour/)
 
-<!-- [React Rapidstart: Creating an Responsive React App in 1 hour](https://www.udemy.com/course/maven-mastery-kickstart-your-java-projects/) -->
+<!-- [React Rapidstart: Creating an Responsive React App in 1 hour](https://www.udemy.com/course/react-rapidstart-creating-an-responsive-react-app-in-1-hour/) -->
 
 - My 15th Udemy course:
 
@@ -100,7 +106,7 @@
 
 - My 14th Udemy course:
 
-  [Ace Your Google Cloud (GCP) Job Interviews (2023)](https://www.udemy.com/course/it-contractor-google-cloud-gcp-interview-questions-20xx)
+  [Ace Your Google Cloud (GCP) Job Interviews](https://www.udemy.com/course/it-contractor-google-cloud-gcp-interview-questions-20xx/)
 
   <!-- - My 13th Udemy course:
 
@@ -114,17 +120,17 @@
 
   <!-- [IT Contractor Interview Questions (2023)](https://www.udemy.com/course/it-contractor-interview-questions-20xx) -->
 
-  [IT Interview Questions (2023)](https://www.udemy.com/course/it-contractor-interview-questions-20xx)
+  [IT Interview Questions](https://www.udemy.com/course/it-contractor-interview-questions-20xx/)
 
 - My 10th Udemy course:
 
   <!-- [IT Contractor Behavioral Interview Questions (2023)](https://www.udemy.com/course/it-contractor-behavioral-interview-questions-20xx) -->
 
-  [IT Behavioral Interview Questions (2023)](https://www.udemy.com/course/it-contractor-behavioral-interview-questions-20xx)
+  [IT Behavioral Interview Questions](https://www.udemy.com/course/it-contractor-behavioral-interview-questions-20xx/)
 
 - My 9th Udemy course:
 
-  [DevOps Interview Questions (2023)](https://www.udemy.com/course/devops-interview-questions-20xx)
+  [DevOps Interview Questions](https://www.udemy.com/course/devops-interview-questions-20xx/)
 
 - My 8th Udemy course:
 
