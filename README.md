@@ -52,35 +52,39 @@
 
 <!-- - My family has 3 major issues now 😭😭😭 Very difficult time since the beginning of 2023 and new year of rabbit -->
 
-- 🔭 I'm currently making my udemy courses <a href="https://www.youtube.com/@devopswithbrian2283" target="_blank"><img alt="DevOps with Brian | Youtube" height="15px" src="YouTube.svg" /></a> and learning Cantonese, Japanese, Korean, Spanish, Italian, Portuguese, Greek, German, Dutch and French - total 12 speaking languages!
+<!-- <a href="https://www.youtube.com/@devopswithbrian2283" target="_blank"><img alt="DevOps with Brian | Youtube" height="15px" src="YouTube.svg" /></a> -->
 
-  - My next Udemy courses (WIP):
+- 🔭 I'm currently making my udemy courses and learning Cantonese, Japanese, Korean, Spanish, Italian, Portuguese, Greek, German, Dutch and French - total 12 speaking languages!
 
-    [Mendix Magic: Mobilize Your Responsive Apps with No Code](Coming soon)
+  [My Udemy Courses](https://myudemycourses.netlify.app/)
 
-    [Angular Mastery: Kickstart Your Full Stack Projects](Coming Soon)
+- My next Udemy courses (WIP):
 
-    [VUE Mastery: Quickstart Your Full Stack Projects](Coming Soon)
+  [Mendix Magic: Mobilize Your Responsive Apps with No Code](Coming soon)
 
-    [NPM Mastery: Kickstart Your NodeJS Projects](Coming Soon)
+  [Angular Mastery: Kickstart Your Full Stack Projects](Coming Soon)
 
-    [PIP Mastery: Kickstart Your Python Projects](Coming Soon)
+  [VUE Mastery: Quickstart Your Full Stack Projects](Coming Soon)
 
-    [Go module Mastery: Kickstart Your Go Projects](Coming Soon)
+  [NPM Mastery: Kickstart Your NodeJS Projects](Coming Soon)
 
-    [NuGet Mastery: Kickstart Your C# Projects](Coming Soon)
+  [PIP Mastery: Kickstart Your Python Projects](Coming Soon)
 
-    [Gradle Mastery: Kickstart Your Java Projects](Coming Soon)
+  [Go module Mastery: Kickstart Your Go Projects](Coming Soon)
 
-    [Full Stack Managing Dask Kubernetes](Coming soon)
+  [NuGet Mastery: Kickstart Your C# Projects](Coming Soon)
 
-    [Full Stack Managing Dask Kubernetes](Coming soon)
+  [Gradle Mastery: Kickstart Your Java Projects](Coming Soon)
 
-    [Full Stack Managing Kubernetes : From Local to Azure](Coming soon)
+  [Full Stack Managing Dask Kubernetes](Coming soon)
 
-    [DevOps Labs: 18 Real DevSecOps Projects](Coming soon)
+  [Full Stack Managing Dask Kubernetes](Coming soon)
 
-    [IT Contractor Success: Thriving in Toronto, Canada](Coming soon)
+  [Full Stack Managing Kubernetes : From Local to Azure](Coming soon)
+
+  [DevOps Labs: 18 Real DevSecOps Projects](Coming soon)
+
+  [IT Contractor Success: Thriving in Toronto, Canada](Coming soon)
 
 - My 19th Udemy course:
 
