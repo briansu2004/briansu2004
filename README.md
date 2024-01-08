@@ -86,7 +86,7 @@
 
   [IT Contractor Success: Thriving in Toronto, Canada](Coming soon)
 
-- My 19th Udemy course:
+- My 19th Udemy course (WIP):
 
   [Mendix Magic: Mobilize Your Responsive Apps with No Code](https://www.udemy.com/user/brian-su-18/)
 
