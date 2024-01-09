@@ -60,7 +60,7 @@
 
 - My next Udemy courses (WIP):
 
-  [Mendix Magic: Mobilize Your Responsive Apps with No Code](Coming soon)
+  <!-- [Mendix Magic: Mobilize Your Responsive Apps with No Code](Coming soon) -->
 
   [Angular Mastery: Kickstart Your Full Stack Projects](Coming Soon)
 
@@ -88,7 +88,9 @@
 
 - My 19th Udemy course (WIP):
 
-  [Mendix Magic: Mobilize Your Responsive Apps with No Code](https://www.udemy.com/user/brian-su-18/)
+  <!-- [Mendix Magic: Mobilize Your Responsive Apps with No Code](https://www.udemy.com/user/brian-su-18/) -->
+
+  [Mendix Magic: Mobilize Your Responsive Apps with No Code](https://www.udemy.com/course/mendix-magic/)
 
 - My 18th Udemy course:
 
