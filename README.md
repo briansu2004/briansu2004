@@ -316,3 +316,14 @@ briansu2004@hotmail.com
 <!-- [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/mtechviral) -->
 
 <!-- paypal.me/briansu2004 -->
+
+<!-- json server
+
+https://raw.githubusercontent.com/briansu2004/briansu2004/main/db.json
+
+==>
+
+https://my-json-server.typicode.com/briansu2004/briansu2004
+
+https://my-json-server.typicode.com/briansu2004/briansu2004/myUdemyCourses
+-->
