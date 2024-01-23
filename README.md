@@ -75,8 +75,6 @@
         </div>
     </td>
   </tr>
-
-
   <tr>
     <td style="border: 1px solid black; padding: 15px; text-align: left;">
         <div style="text-align: center;">
@@ -108,6 +106,33 @@
         </div>
         <div style="text-align: center;">
             <a href="https://www.udemy.com/course/it-contractor-behavioral-interview-questions-20xx/">Maven Mastery</a>
+        </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="border: 1px solid black; padding: 15px; text-align: left;">
+        <div style="text-align: center;">
+            <img src="Udemy/ad_200x112_GCP.jpg" alt="GCP Course Image">
+        </div>
+        <div style="text-align: center;">
+            <a href="https://www.udemy.com/course/it-contractor-google-cloud-gcp-interview-questions-20xx/">Google Cloud Interview Questions</a>
+        </div>
+    </td>
+    <td style="border: 1px solid black; padding: 15px; text-align: left;">
+        <div style="text-align: center;">
+            <img src="Udemy/ad_200x112_IWDevOps.jpg" alt="DevOps Interview Questions Course Image">
+        </div>
+        <div style="text-align: center;">
+            <a href="https://www.udemy.com/course/it-contractor-behavioral-interview-questions-20xx/">DevOps Interview Questions</a>
+        </div>
+    </td>
+    <td style="border: 1px solid black; padding: 15px; text-align: left;">
+        <div style="text-align: center;">
+            <img src="Udemy/ad_200x112_DevOps9.jpg" alt="DevOps16 Course Image">
+        </div>
+        <div style="text-align: center;">
+            <a href="https://www.udemy.com/course/devops-labs-9-real-devops-projects/">9 Real DevOps Projects</a>
         </div>
     </td>
   </tr>
