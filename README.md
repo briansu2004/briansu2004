@@ -138,6 +138,25 @@
   </tr>
 </table>
 
+<table style="border-collapse: collapse; width: 100%;">
+    <tr>
+        <td style="border: 1px solid black;"><img src="country-flag/italy.png" alt="Italian Flag" style="width: 60px; height: 60px;"></td>
+        <td style="border: 1px solid black;"><img src="country-flag/spain.png" alt="Spanish Flag" style="width: 60px; height: 60px;"></td>
+        <td style="border: 1px solid black;"><img src="country-flag/france.png" alt="French Flag" style="width: 60px; height: 60px;"></td>
+        <td style="border: 1px solid black;"><img src="country-flag/portugal.png" alt="Portuguese Flag" style="width: 60px; height: 60px;"></td>
+        <td style="border: 1px solid black;"><img src="country-flag/greece.png" alt="Greek Flag" style="width: 60px; height: 60px;"></td>
+        <td style="border: 1px solid black;"><img src="country-flag/germany.png" alt="German Flag" style="width: 60px; height: 60px;"></td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black;"><img src="country-flag/netherlands.png" alt="Dutch Flag" style="width: 60px; height: 60px;"></td>
+        <td style="border: 1px solid black;"><img src="country-flag/japan.png" alt="Japanese Flag" style="width: 60px; height: 60px;"></td>
+        <td style="border: 1px solid black;"><img src="country-flag/south-korea.png" alt="South Korean Flag" style="width: 60px; height: 60px;"></td>
+        <td style="border: 1px solid black;"><img src="country-flag/canada.png" alt="Canadian Flag" style="width: 60px; height: 60px;"></td>
+        <td style="border: 1px solid black;"><img src="country-flag/hong-kong.png" alt="Hong Kong Flag" style="width: 60px; height: 60px;"></td>
+        <td style="border: 1px solid black;"><img src="country-flag/china.png" alt="Chinese Flag" style="width: 60px; height: 60px;"></td>
+    </tr>
+</table>
+
 <!--
 - 🔭 I'm currently coding.
 - 🌱 I'm currently learning more about history.
