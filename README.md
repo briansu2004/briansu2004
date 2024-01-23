@@ -74,7 +74,42 @@
             <a href="https://www.udemy.com/course/spring-mvc-mastery-jumpstart-your-java-projects/">Spring MVC Mastery</a>
         </div>
     </td>
+  </tr>
 
+
+  <tr>
+    <td style="border: 1px solid black; padding: 15px; text-align: left;">
+        <div style="text-align: center;">
+            <img src="Udemy/ad_200x112_DevOps16.jpg" alt="DevOps16 Course Image">
+        </div>
+        <div style="text-align: center;">
+            <a href="https://www.udemy.com/course/devops-labs-16-real-devops-projects/">16 Real DevOps Projects</a>
+        </div>
+    </td>
+    <td style="border: 1px solid black; padding: 15px; text-align: left;">
+        <div style="text-align: center;">
+            <img src="Udemy/ad_200x112_K8sPyGo.jpg" alt="Kubernetes Python and Go Course Image">
+        </div>
+        <div style="text-align: center;">
+            <a href="https://www.udemy.com/course/managing-dask-kubernetes-with-kubectl-python-and-go/">Kubernetes Python and Go</a>
+        </div>
+    </td>
+    <td style="border: 1px solid black; padding: 15px; text-align: left;">
+        <div style="text-align: center;">
+            <img src="Udemy/ad_200x112_IWBehav.jpg" alt="Behavioral Interview Questions Course Image">
+        </div>
+        <div style="text-align: center;">
+            <a href="https://www.udemy.com/course/it-contractor-behavioral-interview-questions-20xx/">IT Behavioral Interview Questions</a>
+        </div>
+    </td>
+    <td style="border: 1px solid black; padding: 15px; text-align: left;">
+        <div style="text-align: center;">
+            <img src="Udemy/ad_200x112_Maven.jpg" alt="Maven Course Image">
+        </div>
+        <div style="text-align: center;">
+            <a href="https://www.udemy.com/course/it-contractor-behavioral-interview-questions-20xx/">Maven Mastery</a>
+        </div>
+    </td>
   </tr>
 </table>
 
