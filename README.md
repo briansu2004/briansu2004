@@ -40,6 +40,8 @@
     </tr>
 </table> -->
 
+My Udemy courses:
+
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="border: 1px solid black; padding: 15px; text-align: left;">
@@ -137,6 +139,8 @@
     </td>
   </tr>
 </table>
+
+My languages:
 
 <table style="border-collapse: collapse; width: 100%;">
     <tr>
