@@ -26,7 +26,7 @@
 
 <!-- Sono Brian Su -->
 
-<table style="border: 0; border-collapse: collapse;">
+<!-- <table style="border: 0; border-collapse: collapse;">
     <tr>
         <td style="padding: 0; margin: 0;">
             <a href="https://www.udemy.com/course/devops-labs-16-real-devops-projects/"><img src="Udemy/Flyer-16-300x500.png" style="padding: 0; margin: 0;"></a>
@@ -38,39 +38,39 @@
             <a href="https://www.udemy.com/course/devops-interview-questions-20xx/"><img src="Udemy/Flyer-IW-DevOps-300x500.png" style="padding: 0; margin: 0;"></a>
         </td>
     </tr>
-</table>
+</table> -->
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="border: 1px solid black; padding: 15px; text-align: left;">
-        <div>
+        <div style="text-align: center;">
             <img src="Udemy/ad_200x112_Mendix.jpg" alt="Mendix Course Image">
         </div>
-        <div>
+        <div style="text-align: center;">
             <a href="https://www.udemy.com/course/mendix-magic/">Mendix Magic</a>
         </div>
     </td>
     <td style="border: 1px solid black; padding: 15px; text-align: left;">
-        <div>
+        <div style="text-align: center;">
             <img src="Udemy/ad_200x112_Struts.jpg" alt="Struts Course Image">
         </div>
-        <div>
+        <div style="text-align: center;">
             <a href="https://www.udemy.com/course/struts-savvy-quickstart-your-java-projects/">Struts Savvy</a>
         </div>
     </td>
     <td style="border: 1px solid black; padding: 15px; text-align: left;">
-        <div>
+        <div style="text-align: center;">
             <img src="Udemy/ad_200x112_React.jpg" alt="React Course Image">
         </div>
-        <div>
+        <div style="text-align: center;">
             <a href="https://www.udemy.com/course/react-rapidstart-creating-an-responsive-react-app-in-1-hour/">React Rapid</a>
         </div>
     </td>
     <td style="border: 1px solid black; padding: 15px; text-align: left;">
-        <div>
+        <div style="text-align: center;">
             <img src="Udemy/ad_200x112_SpringMVC.jpg" alt="Spring MVC Course Image">
         </div>
-        <div>
+        <div style="text-align: center;">
             <a href="https://www.udemy.com/course/spring-mvc-mastery-jumpstart-your-java-projects/">Spring MVC Mastery</a>
         </div>
     </td>
