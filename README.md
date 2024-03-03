@@ -181,7 +181,7 @@ https://www.freeflagicons.com
 
 <!-- <a href="https://www.youtube.com/@devopswithbrian2283" target="_blank"><img alt="DevOps with Brian | Youtube" height="15px" src="YouTube.svg" /></a> -->
 
-- 🔭 I'm currently making my udemy courses and learning Cantonese, Japanese, Korean, Spanish, Italian, Portuguese, Greek, German, Dutch and French - total 12 speaking languages!
+- 🔭 I'm currently making my udemy courses and learning Cantonese, Japanese, Korean, Spanish, Italian, Portuguese, Greek, German, Dutch, French and Russian - total 13 speaking languages!
 
   [My Udemy Courses](https://myudemycourses.netlify.app/)
 
