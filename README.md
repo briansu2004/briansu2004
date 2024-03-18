@@ -1,4 +1,4 @@
-# Hello Γειά σου Guten Tag Hola Olá Ciao おはよう 안녕하세요 Dag Bonjour Привет 咩事 您好 😎
+# Hello Γειά σου Guten Tag Hola Olá Ciao おはよう 안녕하세요 Dag Bonjour Привет नमस्ते 咩事 您好 😎
 
 <!--
 01: English: Hello
@@ -12,12 +12,12 @@
 09: Dutch: Dag / Hoi / Hallo
 10: French: Bonjour
 11: Russian: Привет
-12: Cantonese: 咩事
-13: Mandarin: 您好
+12: Hindi: नमस्ते
+13: Cantonese: 咩事
+14: Mandarin: 您好
 
 ...
 
-14: Hindi: नमस्ते
 15: Vietnamese: Xin chào
 16: Arabic: مرحبًا
 -->
@@ -159,6 +159,7 @@ My languages:
         <td style="border: 1px solid black;"><img src="country-flag/south-korea.png" alt="South Korean Flag" style="width: 60px; height: 60px;"></td>
         <td style="border: 1px solid black;"><img src="country-flag/hong-kong.png" alt="Hong Kong Flag" style="width: 60px; height: 60px;"></td>
         <td style="border: 1px solid black;"><img src="country-flag/russia.png" alt="Russia Flag" style="width: 60px; height: 60px;"></td>
+        <td style="border: 1px solid black;"><img src="country-flag/india.png" alt="India Flag" style="width: 60px; height: 60px;"></td>
     </tr>
 </table>
 
@@ -182,7 +183,7 @@ https://www.freeflagicons.com
 
 <!-- <a href="https://www.youtube.com/@devopswithbrian2283" target="_blank"><img alt="DevOps with Brian | Youtube" height="15px" src="YouTube.svg" /></a> -->
 
-- 🔭 I'm currently making my udemy courses and learning Cantonese, Japanese, Korean, Spanish, Italian, Portuguese, Greek, German, Dutch, French and Russian - total 13 speaking languages!
+- 🔭 I'm currently making my udemy courses and learning Cantonese, Japanese, Korean, Spanish, Italian, Portuguese, Greek, German, Dutch, French, Russian and Hindi - total 13 speaking languages!
 
   [My Udemy Courses](https://myudemycourses.netlify.app/)
 
