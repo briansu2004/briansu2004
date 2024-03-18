@@ -183,7 +183,7 @@ https://www.freeflagicons.com
 
 <!-- <a href="https://www.youtube.com/@devopswithbrian2283" target="_blank"><img alt="DevOps with Brian | Youtube" height="15px" src="YouTube.svg" /></a> -->
 
-- 🔭 I'm currently making my udemy courses and learning Cantonese, Japanese, Korean, Spanish, Italian, Portuguese, Greek, German, Dutch, French, Russian and Hindi - total 13 speaking languages!
+- 🔭 I'm currently making my udemy courses and learning Cantonese, Japanese, Korean, Spanish, Italian, Portuguese, Greek, German, Dutch, French, Russian and Hindi - total 14 speaking languages!
 
   [My Udemy Courses](https://myudemycourses.netlify.app/)
 
@@ -215,9 +215,11 @@ https://www.freeflagicons.com
 
   <!-- [New course](https://www.udemy.com/user/brian-su-18/) -->
 
-- My 19th Udemy course (WIP):
+- My 19th Udemy course:
 
   [Mendix Magic: Mobilize Your Responsive Apps with No Code](https://www.udemy.com/course/mendix-magic/)
+
+  This is the best Mendix course in Udemy and maybe all over the world!
 
 - My 18th Udemy course:
 
