@@ -187,7 +187,9 @@ https://www.freeflagicons.com
 
   [My Udemy Courses](https://myudemycourses.netlify.app/)
 
-- My next Udemy courses (WIP):
+- My upcoiing Udemy courses (WIP):
+
+  [Guru Golang Job Interviews](Coming Soon)
 
   [Angular Mastery: Kickstart Your Full Stack Projects](Coming Soon)
 
