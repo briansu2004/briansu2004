@@ -197,8 +197,6 @@ https://www.freeflagicons.com
 
 - My upcoiing Udemy courses (WIP):
 
-  [Guru Golang Job Interviews](Coming Soon)
-
   [Angular Mastery: Kickstart Your Full Stack Projects](Coming Soon)
 
   [VUE Mastery: Quickstart Your Full Stack Projects](Coming Soon)
@@ -224,6 +222,10 @@ https://www.freeflagicons.com
   [IT Contractor Success: Thriving in Toronto, Canada](Coming soon)
 
   <!-- [New course](https://www.udemy.com/user/brian-su-18/) -->
+
+- My 20th Udemy course:
+
+  [Guru Golang Job Interviews](https://www.udemy.com/course/guru-golang/)
 
 - My 19th Udemy course:
 
