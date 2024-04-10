@@ -148,6 +148,17 @@ My Udemy courses:
   </tr>
 </table>
 
+<!--
+Steps for making the course image here:
+
+- Download logo from "Course landing page"
+- Rename to "Udemy/ad_200x112_???.jpg"
+- Edit and resize to 200x112
+- Verify/Test
+- Upload
+- Update the db.json
+-->
+
 My languages:
 
 <table style="border-collapse: collapse; width: 100%;">
