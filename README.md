@@ -131,10 +131,18 @@ My Udemy courses:
     </td>
     <td style="border: 1px solid black; padding: 15px; text-align: left;">
         <div style="text-align: center;">
-            <img src="Udemy/ad_200x112_DevOps9.jpg" alt="DevOps16 Course Image">
+            <img src="Udemy/ad_200x112_DevOps9.jpg" alt="DevOps9 Course Image">
         </div>
         <div style="text-align: center;">
             <a href="https://www.udemy.com/course/devops-labs-9-real-devops-projects/">9 Real DevOps Projects</a>
+        </div>
+    </td>
+    <td style="border: 1px solid black; padding: 15px; text-align: left;">
+        <div style="text-align: center;">
+            <img src="Udemy/ad_200x112_Golang.jpg" alt="Guru Golang Course Image">
+        </div>
+        <div style="text-align: center;">
+            <a href="https://www.udemy.com/course/guru-golang/">Guru Golang Job Interviews</a>
         </div>
     </td>
   </tr>
