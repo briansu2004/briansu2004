@@ -22,7 +22,7 @@
 16: Arabic: مرحبًا
 -->
 
-## 👍😊 Ich bin Brian Su
+## 👍😊 Brian Su <!-- Ich bin -->
 
 <!-- Sono Brian Su -->
 
@@ -39,6 +39,8 @@
         </td>
     </tr>
 </table> -->
+
+<!-- Section 1: My Udemy courses -->
 
 My Udemy courses:
 
@@ -159,6 +161,8 @@ Steps for making the course image here:
 - Update the db.json
 -->
 
+<!-- Section 2: My languages -->
+
 My languages:
 
 <table style="border-collapse: collapse; width: 100%;">
@@ -188,6 +192,8 @@ https://www.vecteezy.com
 https://www.freeflagicons.com
 -->
 
+<!-- Section 3: My updates -->
+
 <!--
 - 🔭 I'm currently coding.
 - 🌱 I'm currently learning more about history.
@@ -206,9 +212,19 @@ https://www.freeflagicons.com
 
   [My Udemy Courses](https://myudemycourses.netlify.app/)
 
-- My upcoiing Udemy courses (WIP):
+- My upcoming Udemy courses (WIP):
 
-  [Angular Mastery: Kickstart Your Full Stack Projects](Coming Soon)
+  [Master Python Job Interviews](Coming Soon)
+
+  [Master C# Job Interviews](Coming Soon)
+
+  [Master React Job Interviews](Coming Soon)
+
+  [Master Angular Job Interviews](Coming Soon)
+
+  [Master JavaScript Job Interviews](Coming Soon)
+
+  <!-- [Angular Mastery: Kickstart Your Full Stack Projects](Coming Soon)
 
   [VUE Mastery: Quickstart Your Full Stack Projects](Coming Soon)
 
@@ -220,7 +236,7 @@ https://www.freeflagicons.com
 
   [NuGet Mastery: Kickstart Your C# Projects](Coming Soon)
 
-  [Gradle Mastery: Kickstart Your Java Projects](Coming Soon)
+  [Gradle Mastery: Kickstart Your Java Projects](Coming Soon) -->
 
   [Full Stack Managing Dask Kubernetes](Coming soon)
 
