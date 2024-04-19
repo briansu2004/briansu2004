@@ -1,4 +1,4 @@
-# Hello Γειά σου Guten Tag Hola Olá Ciao おはよう 안녕하세요 Dag Bonjour Привет नमस्ते 咩事 您好 😎
+# Hello Γειά σου Guten Tag Hola Olá Ciao おはよう 안녕하세요 Dag Bonjour Привет नमस्ते Chào 咩事 您好 😎
 
 <!--
 01: English: Hello
@@ -174,6 +174,7 @@ My languages:
         <td style="border: 1px solid black;"><img src="country-flag/france.png" alt="French Flag" style="width: 60px; height: 60px;"></td>
         <td style="border: 1px solid black;"><img src="country-flag/portugal.png" alt="Portuguese Flag" style="width: 60px; height: 60px;"></td>
         <td style="border: 1px solid black;"><img src="country-flag/greece.png" alt="Greek Flag" style="width: 60px; height: 60px;"></td>
+        <td style="border: 1px solid black;"><img src="country-flag/vietnam.png" alt="Vietnam Flag" style="width: 60px; height: 60px;"></td>
     </tr>
     <tr>
         <td style="border: 1px solid black;"><img src="country-flag/germany.png" alt="German Flag" style="width: 60px; height: 60px;"></td>
@@ -183,6 +184,7 @@ My languages:
         <td style="border: 1px solid black;"><img src="country-flag/hong-kong.png" alt="Hong Kong Flag" style="width: 60px; height: 60px;"></td>
         <td style="border: 1px solid black;"><img src="country-flag/russia.png" alt="Russia Flag" style="width: 60px; height: 60px;"></td>
         <td style="border: 1px solid black;"><img src="country-flag/india.png" alt="India Flag" style="width: 60px; height: 60px;"></td>
+        <td style="border: 1px solid black;"></td>
     </tr>
 </table>
 
@@ -208,15 +210,21 @@ https://www.freeflagicons.com
 
 <!-- <a href="https://www.youtube.com/@devopswithbrian2283" target="_blank"><img alt="DevOps with Brian | Youtube" height="15px" src="YouTube.svg" /></a> -->
 
-- 🔭 I'm currently making my udemy courses and learning Cantonese, Japanese, Korean, Spanish, Italian, Portuguese, Greek, German, Dutch, French, Russian and Hindi - total 14 speaking languages!
+- 🔭 I'm currently making my udemy courses and learning Cantonese, Japanese, Korean, Spanish, Italian, Portuguese, Greek, German, Dutch, French, Russian, Hindi and vietnamese - total 15 speaking languages!
 
   [My Udemy Courses](https://myudemycourses.netlify.app/)
 
 - My upcoming Udemy courses (WIP):
 
+  [Master C# Job Interviews](Coming Soon)
+
+  [Master C++ Job Interviews](Coming Soon)
+
+  [Master PHP Job Interviews](Coming Soon)
+
   [Master Python Job Interviews](Coming Soon)
 
-  [Master C# Job Interviews](Coming Soon)
+  [Master Node.JS Job Interviews](Coming Soon)
 
   [Master React Job Interviews](Coming Soon)
 
