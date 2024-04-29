@@ -1,5 +1,13 @@
 # Hello Γειά σου Guten Tag Hola Olá Ciao おはよう 안녕하세요 Dag Bonjour Привет नमस्ते Chào 咩事 您好 😎
 
+<!-- - [👍😊 Brian Su ](#-brian-su-)
+  - [My Udemy courses](#my-udemy-courses)
+  - [My languages](#my-languages)
+  - [My updates](#my-updates)
+- [🥇🔑 Tech Stack](#-tech-stack)
+- [💳📈 Github Stats](#-github-stats)
+- [💰🧧 If you would like to help me or support me](#-if-you-would-like-to-help-me-or-support-me) -->
+
 <!--
 01: English: Hello
 02: Greek: Γειά σου
@@ -40,9 +48,9 @@
     </tr>
 </table> -->
 
-<!-- Section 1: My Udemy courses -->
+<!-- Section 1: My Udemy Courses -->
 
-My Udemy courses:
+### My Udemy Courses
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
@@ -161,9 +169,9 @@ Steps for making the course image here:
 - Update the db.json
 -->
 
-<!-- Section 2: My languages -->
+<!-- Section 2: My Languages -->
 
-My languages:
+### My Languages
 
 <table style="border-collapse: collapse; width: 100%;">
     <tr>
@@ -194,7 +202,15 @@ https://www.vecteezy.com
 https://www.freeflagicons.com
 -->
 
-<!-- Section 3: My updates -->
+<!-- Section 3: My Sponsors -->
+
+### My Sponsors
+
+[Become My Sponsor 😊](https://github.com/sponsors/briansu2004)
+
+<!-- Section 4: My Updates -->
+
+### My Updates
 
 <!--
 - 🔭 I'm currently coding.
