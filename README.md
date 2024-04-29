@@ -208,6 +208,8 @@ https://www.freeflagicons.com
 
 [Become My Sponsor 😊](https://github.com/sponsors/briansu2004)
 
+<!-- [Displaying a sponsor button in your repository](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository) -->
+
 <!-- Section 4: My Updates -->
 
 ### My Updates
