@@ -234,6 +234,10 @@ https://www.freeflagicons.com
 
 - My upcoming Udemy courses (WIP):
 
+  [Nail NodeJS Job Interviews](Coming Soon)
+
+  [Ace Angular Job Interviews](Coming Soon)
+
   [Master C# Job Interviews](Coming Soon)
 
   [Master C++ Job Interviews](Coming Soon)
@@ -242,11 +246,7 @@ https://www.freeflagicons.com
 
   [Master Python Job Interviews](Coming Soon)
 
-  [Master Node.JS Job Interviews](Coming Soon)
-
   [Master React Job Interviews](Coming Soon)
-
-  [Master Angular Job Interviews](Coming Soon)
 
   [Master JavaScript Job Interviews](Coming Soon)
 
@@ -266,13 +266,11 @@ https://www.freeflagicons.com
 
   [Full Stack Managing Dask Kubernetes](Coming soon)
 
-  [Full Stack Managing Dask Kubernetes](Coming soon)
-
   [Full Stack Managing Kubernetes : From Local to Azure](Coming soon)
 
   [DevOps Labs: 18 Real DevSecOps Projects](Coming soon)
 
-  [IT Contractor Success: Thriving in Toronto, Canada](Coming soon)
+  <!-- [IT Contractor Success: Thriving in Toronto, Canada](Coming soon) -->
 
   <!-- [New course](https://www.udemy.com/user/brian-su-18/) -->
 
