@@ -156,14 +156,32 @@
         </div>
     </td>
   </tr>
+
+  
+  <tr>
+    <td style="border: 1px solid black; padding: 15px; text-align: left;">
+        <div style="text-align: center;">
+            <img src="Udemy/ad_200x112_NodeJS.jpg" alt="GCP Course Image">
+        </div>
+        <div style="text-align: center;">
+            <a href="https://www.udemy.com/course/nail-nodejs">Nail Node.js Job Interviews</a>
+        </div>
+    </td>
+    <td style="border: 1px solid black; padding: 15px; text-align: left;">
+    </td>
+    <td style="border: 1px solid black; padding: 15px; text-align: left;">
+    </td>
+    <td style="border: 1px solid black; padding: 15px; text-align: left;">
+    </td>
+  </tr>
 </table>
 
 <!--
 Steps for making the course image here:
 
-- Download logo from "Course landing page"
+- Download logo from "Course landing page" https://www.udemy.com/instructor/courses/
 - Rename to "Udemy/ad_200x112_???.jpg"
-- Edit and resize to 200x112
+- The size needs to be 200x112 (if needed, edit and resize to 200x112)
 - Verify/Test
 - Upload
 - Update the db.json
@@ -234,8 +252,6 @@ https://www.freeflagicons.com
 
 - My upcoming Udemy courses (WIP):
 
-  [Nail NodeJS Job Interviews](Coming Soon)
-
   [Ace Angular Job Interviews](Coming Soon)
 
   [Master C# Job Interviews](Coming Soon)
@@ -273,6 +289,14 @@ https://www.freeflagicons.com
   <!-- [IT Contractor Success: Thriving in Toronto, Canada](Coming soon) -->
 
   <!-- [New course](https://www.udemy.com/user/brian-su-18/) -->
+
+<!-- - My 22nd Udemy course:
+
+  [Ace Angular Job Interviews](https://www.udemy.com/course/ace-angular/) -->
+
+- My 21st Udemy course:
+
+  [Nail Node.js Job Interviews](https://www.udemy.com/course/nail-nodejs/)
 
 - My 20th Udemy course:
 
