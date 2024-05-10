@@ -1,4 +1,4 @@
-# Hello Γειά σου Guten Tag Hola Olá Ciao おはよう 안녕하세요 Dag Bonjour Привет नमस्ते Chào 咩事 您好 😎
+# Hello Γειά σου Guten Tag Hola Olá Ciao おはよう 안녕하세요 Dag Bonjour Привет नमस्ते Chào مرحبًا 咩事 您好 😎
 
 <!-- - [👍😊 Brian Su ](#-brian-su-)
   - [My Udemy courses](#my-udemy-courses)
@@ -157,7 +157,6 @@
     </td>
   </tr>
 
-  
   <tr>
     <td style="border: 1px solid black; padding: 15px; text-align: left;">
         <div style="text-align: center;">
@@ -210,7 +209,7 @@ Steps for making the course image here:
         <td style="border: 1px solid black;"><img src="country-flag/hong-kong.png" alt="Hong Kong Flag" style="width: 60px; height: 60px;"></td>
         <td style="border: 1px solid black;"><img src="country-flag/russia.png" alt="Russia Flag" style="width: 60px; height: 60px;"></td>
         <td style="border: 1px solid black;"><img src="country-flag/india.png" alt="India Flag" style="width: 60px; height: 60px;"></td>
-        <td style="border: 1px solid black;"></td>
+        <td style="border: 1px solid black;"><img src="country-flag/arabic.png" alt="Arabic Flag" style="width: 60px; height: 60px;"></td>
     </tr>
 </table>
 
@@ -246,7 +245,7 @@ https://www.freeflagicons.com
 
 <!-- <a href="https://www.youtube.com/@devopswithbrian2283" target="_blank"><img alt="DevOps with Brian | Youtube" height="15px" src="YouTube.svg" /></a> -->
 
-- 🔭 I'm currently making my udemy courses and learning Cantonese, Japanese, Korean, Spanish, Italian, Portuguese, Greek, German, Dutch, French, Russian, Hindi and vietnamese - total 15 speaking languages!
+- 🔭 I'm currently making my udemy courses and learning Cantonese, Japanese, Korean, Spanish, Italian, Portuguese, Greek, German, Dutch, French, Russian, Hindi, Vietnamese and Arabic - total 16 speaking languages!
 
   [My Udemy Courses](https://myudemycourses.netlify.app/)
 
