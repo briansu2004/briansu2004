@@ -56,34 +56,42 @@
   <tr>
     <td style="border: 1px solid black; padding: 15px; text-align: left;">
         <div style="text-align: center;">
-            <img src="Udemy/ad_200x112_Mendix.jpg" alt="Mendix Course Image">
+            <a href="https://www.udemy.com/course/mendix-magic/" target="mendix">
+                <img src="Udemy/ad_200x112_Mendix.jpg" alt="Mendix Course Image">
+            </a>
         </div>
         <div style="text-align: center;">
-            <a href="https://www.udemy.com/course/mendix-magic/">Mendix Magic</a>
-        </div>
-    </td>
-    <td style="border: 1px solid black; padding: 15px; text-align: left;">
-        <div style="text-align: center;">
-            <img src="Udemy/ad_200x112_Struts.jpg" alt="Struts Course Image">
-        </div>
-        <div style="text-align: center;">
-            <a href="https://www.udemy.com/course/struts-savvy-quickstart-your-java-projects/">Struts Savvy</a>
+            <a href="https://www.udemy.com/course/mendix-magic/" target="mendix">Mendix Magic</a>
         </div>
     </td>
     <td style="border: 1px solid black; padding: 15px; text-align: left;">
         <div style="text-align: center;">
-            <img src="Udemy/ad_200x112_React.jpg" alt="React Course Image">
+            <a href="https://www.udemy.com/course/struts-savvy-quickstart-your-java-projects/" target="struts">
+                <img src="Udemy/ad_200x112_Struts.jpg" alt="Struts Course Image">
+            </a>
         </div>
         <div style="text-align: center;">
-            <a href="https://www.udemy.com/course/react-rapidstart-creating-an-responsive-react-app-in-1-hour/">React Rapid</a>
+            <a href="https://www.udemy.com/course/struts-savvy-quickstart-your-java-projects/" target="struts">Struts Savvy</a>
         </div>
     </td>
     <td style="border: 1px solid black; padding: 15px; text-align: left;">
         <div style="text-align: center;">
-            <img src="Udemy/ad_200x112_SpringMVC.jpg" alt="Spring MVC Course Image">
+            <a href="https://www.udemy.com/course/react-rapidstart-creating-an-responsive-react-app-in-1-hour/" target="react">
+                <img src="Udemy/ad_200x112_React.jpg" alt="React Course Image">
+            </a>
         </div>
         <div style="text-align: center;">
-            <a href="https://www.udemy.com/course/spring-mvc-mastery-jumpstart-your-java-projects/">Spring MVC Mastery</a>
+            <a href="https://www.udemy.com/course/react-rapidstart-creating-an-responsive-react-app-in-1-hour/" target="react">React Rapid</a>
+        </div>
+    </td>
+    <td style="border: 1px solid black; padding: 15px; text-align: left;">
+        <div style="text-align: center;">
+            <a href="https://www.udemy.com/course/spring-mvc-mastery-jumpstart-your-java-projects/" target="soringmvc">
+                <img src="Udemy/ad_200x112_SpringMVC.jpg" alt="Spring MVC Course Image">
+            </a>
+        </div>
+        <div style="text-align: center;">
+            <a href="https://www.udemy.com/course/spring-mvc-mastery-jumpstart-your-java-projects/" target="soringmvc">Spring MVC Mastery</a>
         </div>
     </td>
   </tr>
