@@ -160,7 +160,7 @@
   <tr>
     <td style="border: 1px solid black; padding: 15px; text-align: left;">
         <div style="text-align: center;">
-            <img src="Udemy/ad_200x112_NodeJS.jpg" alt="Node.js Course Image">
+            <a href="https://www.udemy.com/course/nail-nodejs/"><img src="Udemy/ad_200x112_NodeJS.jpg" alt="Node.js Course Image"></a>
         </div>
         <div style="text-align: center;">
             <a href="https://www.udemy.com/course/nail-nodejs/">Nail Node.js Job Interviews</a>
@@ -168,10 +168,10 @@
     </td>
     <td style="border: 1px solid black; padding: 15px; text-align: left;">
         <div style="text-align: center;">
-            <img src="Udemy/ad_200x112_Angular.jpg" alt="Angular Course Image">
+            <a href="https://www.udemy.com/course/ace-angular/"><img src="Udemy/ad_200x112_Angular.jpg" alt="Angular Course Image"></a>
         </div>
         <div style="text-align: center;">
-            <a href="https://www.udemy.com/course/ace-angular/">Nail Node.js Job Interviews</a>
+            <a href="https://www.udemy.com/course/ace-angular/">Ace Angular Job Interviews</a>
         </div>
     </td>
     <td style="border: 1px solid black; padding: 15px; text-align: left;">
