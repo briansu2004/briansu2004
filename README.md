@@ -90,69 +90,42 @@
   <tr>
     <td style="border: 1px solid black; padding: 15px; text-align: left;">
         <div style="text-align: center;">
-            <img src="Udemy/ad_200x112_DevOps16.jpg" alt="DevOps16 Course Image">
+            <a href="https://www.udemy.com/course/devops-labs-16-real-devops-projects/" target="devops16">
+                <img src="Udemy/ad_200x112_DevOps16.jpg" alt="DevOps16 Course Image">
+            </a>
         </div>
         <div style="text-align: center;">
-            <a href="https://www.udemy.com/course/devops-labs-16-real-devops-projects/">16 Real DevOps Projects</a>
-        </div>
-    </td>
-    <td style="border: 1px solid black; padding: 15px; text-align: left;">
-        <div style="text-align: center;">
-            <img src="Udemy/ad_200x112_K8sPyGo.jpg" alt="Kubernetes Python and Go Course Image">
-        </div>
-        <div style="text-align: center;">
-            <a href="https://www.udemy.com/course/managing-dask-kubernetes-with-kubectl-python-and-go/">Kubernetes Python and Go</a>
+            <a href="https://www.udemy.com/course/devops-labs-16-real-devops-projects/" target="devops16">16 Real DevOps Projects</a>
         </div>
     </td>
     <td style="border: 1px solid black; padding: 15px; text-align: left;">
         <div style="text-align: center;">
-            <img src="Udemy/ad_200x112_IWBehav.jpg" alt="Behavioral Interview Questions Course Image">
+            <a href="https://www.udemy.com/course/managing-dask-kubernetes-with-kubectl-python-and-go/" target="k8s">
+                <img src="Udemy/ad_200x112_K8sPyGo.jpg" alt="Kubernetes Python and Go Course Image">
+            </a>
         </div>
         <div style="text-align: center;">
-            <a href="https://www.udemy.com/course/it-contractor-behavioral-interview-questions-20xx/">IT Behavioral Interview Questions</a>
-        </div>
-    </td>
-    <td style="border: 1px solid black; padding: 15px; text-align: left;">
-        <div style="text-align: center;">
-            <img src="Udemy/ad_200x112_Maven.jpg" alt="Maven Course Image">
-        </div>
-        <div style="text-align: center;">
-            <a href="https://www.udemy.com/course/it-contractor-behavioral-interview-questions-20xx/">Maven Mastery</a>
-        </div>
-    </td>
-  </tr>
-
-  <tr>
-    <td style="border: 1px solid black; padding: 15px; text-align: left;">
-        <div style="text-align: center;">
-            <img src="Udemy/ad_200x112_GCP.jpg" alt="GCP Course Image">
-        </div>
-        <div style="text-align: center;">
-            <a href="https://www.udemy.com/course/it-contractor-google-cloud-gcp-interview-questions-20xx/">Google Cloud Interview Questions</a>
+            <a href="https://www.udemy.com/course/managing-dask-kubernetes-with-kubectl-python-and-go/" target="k8s">Kubernetes Python and Go</a>
         </div>
     </td>
     <td style="border: 1px solid black; padding: 15px; text-align: left;">
         <div style="text-align: center;">
-            <img src="Udemy/ad_200x112_IWDevOps.jpg" alt="DevOps Interview Questions Course Image">
+            <a href="https://www.udemy.com/course/it-contractor-behavioral-interview-questions-20xx/" target="bahavioral">
+                <img src="Udemy/ad_200x112_IWBehav.jpg" alt="Behavioral Interview Questions Course Image">
+            </a>
         </div>
         <div style="text-align: center;">
-            <a href="https://www.udemy.com/course/it-contractor-behavioral-interview-questions-20xx/">DevOps Interview Questions</a>
-        </div>
-    </td>
-    <td style="border: 1px solid black; padding: 15px; text-align: left;">
-        <div style="text-align: center;">
-            <img src="Udemy/ad_200x112_DevOps9.jpg" alt="DevOps9 Course Image">
-        </div>
-        <div style="text-align: center;">
-            <a href="https://www.udemy.com/course/devops-labs-9-real-devops-projects/">9 Real DevOps Projects</a>
+            <a href="https://www.udemy.com/course/it-contractor-behavioral-interview-questions-20xx/" target="bahavioral">IT Behavioral Interview Questions</a>
         </div>
     </td>
     <td style="border: 1px solid black; padding: 15px; text-align: left;">
         <div style="text-align: center;">
-            <img src="Udemy/ad_200x112_Golang.jpg" alt="Go Course Image">
+            <a href="https://www.udemy.com/course/maven-mastery-kickstart-your-java-projects/" target="maven">
+                <img src="Udemy/ad_200x112_Maven.jpg" alt="Maven Course Image">
+            </a>
         </div>
         <div style="text-align: center;">
-            <a href="https://www.udemy.com/course/guru-golang/">Guru Golang Job Interviews</a>
+            <a href="https://www.udemy.com/course/maven-mastery-kickstart-your-java-projects/" target="maven">Maven Mastery</a>
         </div>
     </td>
   </tr>
@@ -160,18 +133,65 @@
   <tr>
     <td style="border: 1px solid black; padding: 15px; text-align: left;">
         <div style="text-align: center;">
-            <a href="https://www.udemy.com/course/nail-nodejs/"><img src="Udemy/ad_200x112_NodeJS.jpg" alt="Node.js Course Image"></a>
+            <a href="https://www.udemy.com/course/it-contractor-google-cloud-gcp-interview-questions-20xx/" target="gcp">
+                <img src="Udemy/ad_200x112_GCP.jpg" alt="GCP Course Image">
+            </a>
         </div>
         <div style="text-align: center;">
-            <a href="https://www.udemy.com/course/nail-nodejs/">Nail Node.js Job Interviews</a>
+            <a href="https://www.udemy.com/course/it-contractor-google-cloud-gcp-interview-questions-20xx/" target="gcp">Google Cloud Interview Questions</a>
         </div>
     </td>
     <td style="border: 1px solid black; padding: 15px; text-align: left;">
         <div style="text-align: center;">
-            <a href="https://www.udemy.com/course/ace-angular/"><img src="Udemy/ad_200x112_Angular.jpg" alt="Angular Course Image"></a>
+            <a href="https://www.udemy.com/course/devops-interview-questions-20xx/" target="devops-iwq">
+                <img src="Udemy/ad_200x112_IWDevOps.jpg" alt="DevOps Interview Questions Course Image">
+            </a>
         </div>
         <div style="text-align: center;">
-            <a href="https://www.udemy.com/course/ace-angular/">Ace Angular Job Interviews</a>
+            <a href="https://www.udemy.com/course/devops-interview-questions-20xx/" target="devops-iwq">DevOps Interview Questions</a>
+        </div>
+    </td>
+    <td style="border: 1px solid black; padding: 15px; text-align: left;">
+        <div style="text-align: center;">
+            <a href="https://www.udemy.com/course/devops-labs-9-real-devops-projects/" target="devops9">
+                <img src="Udemy/ad_200x112_DevOps9.jpg" alt="DevOps9 Course Image">
+            </a>
+        </div>
+        <div style="text-align: center;">
+            <a href="https://www.udemy.com/course/devops-labs-9-real-devops-projects/" target="devops9">9 Real DevOps Projects</a>
+        </div>
+    </td>
+    <td style="border: 1px solid black; padding: 15px; text-align: left;">
+        <div style="text-align: center;">
+            <a href="https://www.udemy.com/course/guru-golang/" target="go">
+                <img src="Udemy/ad_200x112_Golang.jpg" alt="Go Course Image">
+            </a>
+        </div>
+        <div style="text-align: center;">
+            <a href="https://www.udemy.com/course/guru-golang/" target="go">Guru Golang Job Interviews</a>
+        </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="border: 1px solid black; padding: 15px; text-align: left;">
+        <div style="text-align: center;">
+            <a href="https://www.udemy.com/course/nail-nodejs/" target="nodejs">
+                <img src="Udemy/ad_200x112_NodeJS.jpg" alt="Node.js Course Image">
+            </a>
+        </div>
+        <div style="text-align: center;">
+            <a href="https://www.udemy.com/course/nail-nodejs/" target="nodejs">Nail Node.js Job Interviews</a>
+        </div>
+    </td>
+    <td style="border: 1px solid black; padding: 15px; text-align: left;">
+        <div style="text-align: center;">
+            <a href="https://www.udemy.com/course/ace-angular/" target="angular">
+                <img src="Udemy/ad_200x112_Angular.jpg" alt="Angular Course Image">
+            </a>
+        </div>
+        <div style="text-align: center;">
+            <a href="https://www.udemy.com/course/ace-angular/" target="angular">Ace Angular Job Interviews</a>
         </div>
     </td>
     <td style="border: 1px solid black; padding: 15px; text-align: left;">
