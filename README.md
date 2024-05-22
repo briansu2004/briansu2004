@@ -149,7 +149,7 @@
     </td>
     <td style="border: 1px solid black; padding: 15px; text-align: left;">
         <div style="text-align: center;">
-            <img src="Udemy/ad_200x112_Golang.jpg" alt="Guru Golang Course Image">
+            <img src="Udemy/ad_200x112_Golang.jpg" alt="Go Course Image">
         </div>
         <div style="text-align: center;">
             <a href="https://www.udemy.com/course/guru-golang/">Guru Golang Job Interviews</a>
@@ -160,13 +160,19 @@
   <tr>
     <td style="border: 1px solid black; padding: 15px; text-align: left;">
         <div style="text-align: center;">
-            <img src="Udemy/ad_200x112_NodeJS.jpg" alt="GCP Course Image">
+            <img src="Udemy/ad_200x112_NodeJS.jpg" alt="Node.js Course Image">
         </div>
         <div style="text-align: center;">
-            <a href="https://www.udemy.com/course/nail-nodejs">Nail Node.js Job Interviews</a>
+            <a href="https://www.udemy.com/course/nail-nodejs/">Nail Node.js Job Interviews</a>
         </div>
     </td>
     <td style="border: 1px solid black; padding: 15px; text-align: left;">
+        <div style="text-align: center;">
+            <img src="Udemy/ad_200x112_Angular.jpg" alt="Angular Course Image">
+        </div>
+        <div style="text-align: center;">
+            <a href="https://www.udemy.com/course/ace-angular/">Nail Node.js Job Interviews</a>
+        </div>
     </td>
     <td style="border: 1px solid black; padding: 15px; text-align: left;">
     </td>
@@ -261,21 +267,22 @@ https://www.freeflagicons.com
 
 - My upcoming Udemy courses (WIP):
 
-  [Ace Angular Job Interviews](Coming Soon)
+  [Master Python Job Interviews](Coming Soon)
 
+  [Master PHP Job Interviews](Coming Soon)
+  
   [Master C# Job Interviews](Coming Soon)
 
   [Master C++ Job Interviews](Coming Soon)
 
-  [Master PHP Job Interviews](Coming Soon)
+  [Master Gen AI Job Interviews](Coming Soon)
 
-  [Master Python Job Interviews](Coming Soon)
+  <!-- [Master JavaScript Job Interviews](Coming Soon) -->
 
   [Master React Job Interviews](Coming Soon)
 
-  [Master JavaScript Job Interviews](Coming Soon)
-
-  <!-- [Angular Mastery: Kickstart Your Full Stack Projects](Coming Soon)
+  <!-- 
+  [Angular Mastery: Kickstart Your Full Stack Projects](Coming Soon)
 
   [VUE Mastery: Quickstart Your Full Stack Projects](Coming Soon)
 
@@ -287,7 +294,8 @@ https://www.freeflagicons.com
 
   [NuGet Mastery: Kickstart Your C# Projects](Coming Soon)
 
-  [Gradle Mastery: Kickstart Your Java Projects](Coming Soon) -->
+  [Gradle Mastery: Kickstart Your Java Projects](Coming Soon) 
+  -->
 
   [Full Stack Managing Dask Kubernetes](Coming soon)
 
@@ -299,9 +307,15 @@ https://www.freeflagicons.com
 
   <!-- [New course](https://www.udemy.com/user/brian-su-18/) -->
 
-<!-- - My 22nd Udemy course:
+<!-- 
+- My 23rd Udemy course:
 
-  [Ace Angular Job Interviews](https://www.udemy.com/course/ace-angular/) -->
+  [Pass Python Job Interviews](https://www.udemy.com/course/)
+-->
+
+- My 22nd Udemy course:
+
+  [Ace Angular Job Interviews](https://www.udemy.com/course/ace-angular/)
 
 - My 21st Udemy course:
 
