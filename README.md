@@ -295,15 +295,15 @@ https://www.freeflagicons.com
 
 - My upcoming Udemy courses (WIP):
 
-  [Master Python Job Interviews](Coming Soon)
+  [Crack C# .NET Job Interviews](Coming Soon)
 
-  [Master PHP Job Interviews](Coming Soon)
+  [Pass Python Job Interviews](Coming Soon)
+
+  [Pass PHP Job Interviews](Coming Soon)
   
-  [Master C# Job Interviews](Coming Soon)
+  [Conquer C++ Job Interviews](Coming Soon)
 
-  [Master C++ Job Interviews](Coming Soon)
-
-  [Master Gen AI Job Interviews](Coming Soon)
+  [Ace Gen AI Job Interviews](Coming Soon)
 
   <!-- [Master JavaScript Job Interviews](Coming Soon) -->
 
