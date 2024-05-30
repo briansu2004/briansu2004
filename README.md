@@ -130,12 +130,12 @@
     </td>
     <td style="border: 1px solid black; padding: 15px; text-align: left;">
         <div style="text-align: center;">
-            <a href="https://www.udemy.com/course/spring-mvc-mastery-jumpstart-your-java-projects/" target="soringmvc">
-                <img src="Udemy/ad_200x112_SpringMVC.jpg" alt="Spring MVC Course Image">
+            <a href="https://www.udemy.com/course/maven-mastery-kickstart-your-java-projects/" target="maven">
+                <img src="Udemy/ad_200x112_Maven.jpg" alt="Maven Course Image">
             </a>
         </div>
         <div style="text-align: center;">
-            <a href="https://www.udemy.com/course/spring-mvc-mastery-jumpstart-your-java-projects/" target="soringmvc">Spring MVC Mastery</a>
+            <a href="https://www.udemy.com/course/maven-mastery-kickstart-your-java-projects/" target="maven">Maven Mastery</a>
         </div>
     </td>
   </tr>
@@ -173,12 +173,12 @@
     </td>
     <td style="border: 1px solid black; padding: 15px; text-align: left;">
         <div style="text-align: center;">
-            <a href="https://www.udemy.com/course/maven-mastery-kickstart-your-java-projects/" target="maven">
-                <img src="Udemy/ad_200x112_Maven.jpg" alt="Maven Course Image">
+            <a href="https://www.udemy.com/course/spring-mvc-mastery-jumpstart-your-java-projects/" target="soringmvc">
+                <img src="Udemy/ad_200x112_SpringMVC.jpg" alt="Spring MVC Course Image">
             </a>
         </div>
         <div style="text-align: center;">
-            <a href="https://www.udemy.com/course/maven-mastery-kickstart-your-java-projects/" target="maven">Maven Mastery</a>
+            <a href="https://www.udemy.com/course/spring-mvc-mastery-jumpstart-your-java-projects/" target="soringmvc">Spring MVC Mastery</a>
         </div>
     </td>
   </tr>
