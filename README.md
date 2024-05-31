@@ -87,12 +87,12 @@
     </td>
     <td style="border: 1px solid black; padding: 15px; text-align: left;">
         <div style="text-align: center;">
-            <a href="https://www.udemy.com/course/devops-interview-questions-20xx/" target="devops-iwq">
-                <img src="Udemy/ad_200x112_IWDevOps.jpg" alt="DevOps Interview Questions Course Image">
+            <a href="https://www.udemy.com/course/crack-csharop-dotnet" target="devops-csharp">
+                <img src="Udemy/ad_200x112_IWCSharp.png" alt="C# .NET Course Image">
             </a>
         </div>
         <div style="text-align: center;">
-            <a href="https://www.udemy.com/course/devops-interview-questions-20xx/" target="devops-iwq">DevOps Interview Questions</a>
+            <a href="https://www.udemy.com/course/crack-csharop-dotnet" target="devops-csharp">Crack C# .NET Job Interviews</a>
         </div>
     </td>
   </tr>
@@ -205,7 +205,14 @@
         </div>
     </td>
     <td style="border: 1px solid black; padding: 15px; text-align: left;">
-        <div></div>
+        <div style="text-align: center;">
+            <a href="https://www.udemy.com/course/devops-interview-questions-20xx/" target="devops-iwq">
+                <img src="Udemy/ad_200x112_IWDevOps.jpg" alt="DevOps Interview Questions Course Image">
+            </a>
+        </div>
+        <div style="text-align: center;">
+            <a href="https://www.udemy.com/course/devops-interview-questions-20xx/" target="devops-iwq">DevOps Interview Questions</a>
+        </div>
     </td>
     <td style="border: 1px solid black; padding: 15px; text-align: left;">
         <div></div>
@@ -314,8 +321,6 @@ https://www.freeflagicons.com
 
 - My upcoming Udemy courses (WIP):
 
-  [Crack C# .NET Job Interviews](Coming Soon)
-
   [Pass Python Job Interviews](Coming Soon)
 
   [Pass PHP Job Interviews](Coming Soon)
@@ -365,6 +370,8 @@ https://www.freeflagicons.com
 
   [Pass Python Job Interviews](https://www.udemy.com/course/)
 -->
+
+  [Crack C# .NET Job Interviews](https://www.udemy.com/course/crack-csharop-dotnet)
 
 - My 22nd Udemy course:
 
