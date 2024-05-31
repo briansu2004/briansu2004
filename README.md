@@ -328,6 +328,8 @@ https://www.freeflagicons.com
 
   [Master React Job Interviews](Coming Soon)
 
+  [Nail Next.js Job Interviews](Coming Soon)
+
   <!-- 
   [Angular Mastery: Kickstart Your Full Stack Projects](Coming Soon)
 
@@ -343,6 +345,10 @@ https://www.freeflagicons.com
 
   [Gradle Mastery: Kickstart Your Java Projects](Coming Soon) 
   -->
+
+  [NoSQL - MongoDB](Coming soon)
+
+  [Open-Source PostgreSQL](coming soon)
 
   [Full Stack Managing Dask Kubernetes](Coming soon)
 
