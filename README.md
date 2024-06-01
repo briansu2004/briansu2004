@@ -366,10 +366,12 @@ https://www.freeflagicons.com
   <!-- [New course](https://www.udemy.com/user/brian-su-18/) -->
 
 <!-- 
-- My 23rd Udemy course:
+- My 24th Udemy course:
 
   [Pass Python Job Interviews](https://www.udemy.com/course/)
 -->
+
+- My 23rd Udemy course:
 
   [Crack C# .NET Job Interviews](https://www.udemy.com/course/crack-csharop-dotnet)
 
