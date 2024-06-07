@@ -58,7 +58,7 @@
     <td style="border: 1px solid black; padding: 15px; text-align: left;">
         <div style="text-align: center;">
             <a href="https://www.udemy.com/course/guru-golang/" target="go">
-                <img src="Udemy/ad_200x112_Golang.jpg" alt="Go Course Image">
+                <img src="Udemy/ad_200x112_Go.jpg" alt="Go Course Image">
             </a>
         </div>
         <div style="text-align: center;">
@@ -87,12 +87,12 @@
     </td>
     <td style="border: 1px solid black; padding: 15px; text-align: left;">
         <div style="text-align: center;">
-            <a href="https://www.udemy.com/course/crack-csharop-dotnet" target="devops-csharp">
-                <img src="Udemy/ad_200x112_IWCSharp.png" alt="C# .NET Course Image">
+            <a href="https://www.udemy.com/course/crack-csharop-dotnet" target="csharp">
+                <img src="Udemy/ad_200x112_CSharp.png" alt="C# .NET Course Image">
             </a>
         </div>
         <div style="text-align: center;">
-            <a href="https://www.udemy.com/course/crack-csharop-dotnet" target="devops-csharp">Crack C# .NET Job Interviews</a>
+            <a href="https://www.udemy.com/course/crack-csharop-dotnet" target="csharp">Crack C# .NET Job Interviews</a>
         </div>
     </td>
   </tr>
@@ -215,7 +215,14 @@
         </div>
     </td>
     <td style="border: 1px solid black; padding: 15px; text-align: left;">
-        <div></div>
+        <div style="text-align: center;">
+            <a href="https://www.udemy.com/course/perfect-python/" target="python">
+                <img src="Udemy/ad_200x112_Python.png" alt="Python Course Image">
+            </a>
+        </div>
+        <div style="text-align: center;">
+            <a href="https://www.udemy.com/course/perfect-python/" target="python">Perfect Python Job Interviews</a>
+        </div>
     </td>
   </tr>
   <!-- row 5 -->
@@ -321,8 +328,6 @@ https://www.freeflagicons.com
 
 - My upcoming Udemy courses (WIP):
 
-  [Pass Python Job Interviews](Coming Soon)
-
   [Pass PHP Job Interviews](Coming Soon)
   
   [Conquer C++ Job Interviews](Coming Soon)
@@ -366,14 +371,18 @@ https://www.freeflagicons.com
   <!-- [New course](https://www.udemy.com/user/brian-su-18/) -->
 
 <!-- 
+- My 25th Udemy course:
+
+  [?](https://www.udemy.com/course/)
+-->
+
 - My 24th Udemy course:
 
-  [Pass Python Job Interviews](https://www.udemy.com/course/)
--->
+  [Perfect Python Job Interviews](https://www.udemy.com/course/perfect-python/)
 
 - My 23rd Udemy course:
 
-  [Crack C# .NET Job Interviews](https://www.udemy.com/course/crack-csharop-dotnet)
+  [Crack C# .NET Job Interviews](https://www.udemy.com/course/crack-csharop-dotnet/)
 
 - My 22nd Udemy course:
 
