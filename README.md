@@ -100,6 +100,26 @@
   <tr>
     <td style="border: 1px solid black; padding: 15px; text-align: left;">
         <div style="text-align: center;">
+            <a href="https://www.udemy.com/course/perfect-python/" target="_blank">
+                <img src="Udemy/ad_200x112_Python.png" alt="Python Course Image">
+            </a>
+        </div>
+        <div style="text-align: center;">
+            <a href="https://www.udemy.com/course/perfect-python/" target="_blank">Perfect Python Job Interviews</a>
+        </div>
+    </td>
+    <td style="border: 1px solid black; padding: 15px; text-align: left;">
+        <div style="text-align: center;">
+            <a href="https://www.udemy.com/course/pass-php-job-interviews/" target="_blank">
+                <img src="Udemy/ad_220x112_Php.jpg" alt="Php Course Image">
+            </a>
+        </div>
+        <div style="text-align: center;">
+            <a href="https://www.udemy.com/course/pass-php-job-interviews/" target="_blank">Pass PHP Job Interviews</a>
+        </div>
+    </td>
+    <td style="border: 1px solid black; padding: 15px; text-align: left;">
+        <div style="text-align: center;">
             <a href="https://www.udemy.com/course/mendix-magic/" target="_blank">
                 <img src="Udemy/ad_200x112_Mendix.jpg" alt="Mendix Course Image">
             </a>
@@ -110,32 +130,12 @@
     </td>
     <td style="border: 1px solid black; padding: 15px; text-align: left;">
         <div style="text-align: center;">
-            <a href="https://www.udemy.com/course/struts-savvy-quickstart-your-java-projects/" target="_blank">
-                <img src="Udemy/ad_200x112_Struts.jpg" alt="Struts Course Image">
-            </a>
-        </div>
-        <div style="text-align: center;">
-            <a href="https://www.udemy.com/course/struts-savvy-quickstart-your-java-projects/" target="_blank">Struts Savvy</a>
-        </div>
-    </td>
-    <td style="border: 1px solid black; padding: 15px; text-align: left;">
-        <div style="text-align: center;">
             <a href="https://www.udemy.com/course/react-rapidstart-creating-an-responsive-react-app-in-1-hour/" target="_blank">
                 <img src="Udemy/ad_200x112_React.jpg" alt="React Course Image">
             </a>
         </div>
         <div style="text-align: center;">
             <a href="https://www.udemy.com/course/react-rapidstart-creating-an-responsive-react-app-in-1-hour/" target="_blank">React Rapid</a>
-        </div>
-    </td>
-    <td style="border: 1px solid black; padding: 15px; text-align: left;">
-        <div style="text-align: center;">
-            <a href="https://www.udemy.com/course/maven-mastery-kickstart-your-java-projects/" target="_blank">
-                <img src="Udemy/ad_200x112_Maven.jpg" alt="Maven Course Image">
-            </a>
-        </div>
-        <div style="text-align: center;">
-            <a href="https://www.udemy.com/course/maven-mastery-kickstart-your-java-projects/" target="_blank">Maven Mastery</a>
         </div>
     </td>
   </tr>
@@ -216,15 +216,39 @@
     </td>
     <td style="border: 1px solid black; padding: 15px; text-align: left;">
         <div style="text-align: center;">
-            <a href="https://www.udemy.com/course/perfect-python/" target="_blank">
-                <img src="Udemy/ad_200x112_Python.png" alt="Python Course Image">
+            <a href="https://www.udemy.com/course/struts-savvy-quickstart-your-java-projects/" target="_blank">
+                <img src="Udemy/ad_200x112_Struts.jpg" alt="Struts Course Image">
             </a>
         </div>
         <div style="text-align: center;">
-            <a href="https://www.udemy.com/course/perfect-python/" target="_blank">Perfect Python Job Interviews</a>
+            <a href="https://www.udemy.com/course/struts-savvy-quickstart-your-java-projects/" target="_blank">Struts Savvy</a>
         </div>
     </td>
   </tr>
+
+  <!-- row 5 -->
+  <tr>
+    <td style="border: 1px solid black; padding: 15px; text-align: left;">
+        <div style="text-align: center;">
+            <a href="https://www.udemy.com/course/maven-mastery-kickstart-your-java-projects/" target="_blank">
+                <img src="Udemy/ad_200x112_Maven.jpg" alt="Maven Course Image">
+            </a>
+        </div>
+        <div style="text-align: center;">
+            <a href="https://www.udemy.com/course/maven-mastery-kickstart-your-java-projects/" target="_blank">Maven Mastery</a>
+        </div>
+    </td>
+    <td style="border: 1px solid black; padding: 15px; text-align: left;">
+        <div></div>
+    </td>
+    <td style="border: 1px solid black; padding: 15px; text-align: left;">
+            <div></div>
+    </td>
+    <td style="border: 1px solid black; padding: 15px; text-align: left;">
+            <div></div>
+    </td>
+  </tr>
+
   <!-- row 5 -->
   <!-- <tr>
     <td style="border: 1px solid black; padding: 15px; text-align: left;">
@@ -328,11 +352,13 @@ https://www.freeflagicons.com
 
 - My upcoming Udemy courses (WIP):
 
-  [Pass PHP Job Interviews](Coming Soon)
+  <!-- [Pass PHP Job Interviews](Coming Soon) -->
   
+  [Secure Scala Job Interviews](Coming Soon)
+
   [Conquer C++ Job Interviews](Coming Soon)
 
-  [Ace Gen AI Job Interviews](Coming Soon)
+  [Good Gen AI Job Interviews](Coming Soon)
 
   <!-- [Master JavaScript Job Interviews](Coming Soon) -->
 
@@ -371,9 +397,15 @@ https://www.freeflagicons.com
   <!-- [New course](https://www.udemy.com/user/brian-su-18/) -->
 
 <!-- 
-- My 25th Udemy course:
+- My 26th Udemy course:
 
   [?](https://www.udemy.com/course/)
+-->
+
+<!-- 
+- My 25th Udemy course:
+
+  [Pass PHP Job Interviews](https://www.udemy.com/course/pass-php-job-interviews/)
 -->
 
 - My 24th Udemy course:
