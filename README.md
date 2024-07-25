@@ -163,12 +163,12 @@
     </td>
     <td style="border: 1px solid black; padding: 15px; text-align: left;">
         <div style="text-align: center;">
-            <a href="https://www.udemy.com/course/devops-labs-9-real-devops-projects/" target="_blank">
-                <img src="Udemy/ad_200x112_DevOps9.jpg" alt="DevOps9 Course Image">
+            <a href="https://www.udemy.com/course/struts-savvy-quickstart-your-java-projects/" target="_blank">
+                <img src="Udemy/ad_200x112_Struts.jpg" alt="Struts Course Image">
             </a>
         </div>
         <div style="text-align: center;">
-            <a href="https://www.udemy.com/course/devops-labs-9-real-devops-projects/" target="_blank">9 Real DevOps Projects</a>
+            <a href="https://www.udemy.com/course/struts-savvy-quickstart-your-java-projects/" target="_blank">Struts Savvy</a>
         </div>
     </td>
     <td style="border: 1px solid black; padding: 15px; text-align: left;">
@@ -216,12 +216,12 @@
     </td>
     <td style="border: 1px solid black; padding: 15px; text-align: left;">
         <div style="text-align: center;">
-            <a href="https://www.udemy.com/course/struts-savvy-quickstart-your-java-projects/" target="_blank">
-                <img src="Udemy/ad_200x112_Struts.jpg" alt="Struts Course Image">
+            <a href="https://www.udemy.com/course/devops-labs-9-real-devops-projects/" target="_blank">
+                <img src="Udemy/ad_200x112_DevOps9.jpg" alt="DevOps9 Course Image">
             </a>
         </div>
         <div style="text-align: center;">
-            <a href="https://www.udemy.com/course/struts-savvy-quickstart-your-java-projects/" target="_blank">Struts Savvy</a>
+            <a href="https://www.udemy.com/course/devops-labs-9-real-devops-projects/" target="_blank">9 Real DevOps Projects</a>
         </div>
     </td>
   </tr>
