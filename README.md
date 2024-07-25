@@ -402,11 +402,9 @@ https://www.freeflagicons.com
   [?](https://www.udemy.com/course/)
 -->
 
-<!-- 
 - My 25th Udemy course:
 
   [Pass PHP Job Interviews](https://www.udemy.com/course/pass-php-job-interviews/)
--->
 
 - My 24th Udemy course:
 
