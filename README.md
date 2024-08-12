@@ -283,26 +283,72 @@ Steps for making the course image here:
 
 <table style="border-collapse: collapse; width: 100%;">
     <tr>
-        <td style="border: 1px solid black;"><img src="country-flag/china.png" alt="Chinese Flag" style="width: 60px; height: 60px;"></td>
-        <td style="border: 1px solid black;"><img src="country-flag/canada.png" alt="Canadian Flag" style="width: 60px; height: 60px;"></td>
-        <td style="border: 1px solid black;"><img src="country-flag/italy.png" alt="Italian Flag" style="width: 60px; height: 60px;"></td>
-        <td style="border: 1px solid black;"><img src="country-flag/spain.png" alt="Spanish Flag" style="width: 60px; height: 60px;"></td>
-        <td style="border: 1px solid black;"><img src="country-flag/france.png" alt="French Flag" style="width: 60px; height: 60px;"></td>
-        <td style="border: 1px solid black;"><img src="country-flag/portugal.png" alt="Portuguese Flag" style="width: 60px; height: 60px;"></td>
-        <td style="border: 1px solid black;"><img src="country-flag/greece.png" alt="Greek Flag" style="width: 60px; height: 60px;"></td>
-        <td style="border: 1px solid black;"><img src="country-flag/vietnam.png" alt="Vietnam Flag" style="width: 60px; height: 60px;"></td>
+        <td style="border: 1px solid black;"><img src="lang-flag/china.png" alt="China Flag" style="width: 60px; height: 60px;"></td>
+        <td style="border: 1px solid black;"><img src="lang-flag/canada.png" alt="Canadian Flag" style="width: 60px; height: 60px;"></td>
+        <td style="border: 1px solid black;"><img src="lang-flag/italy.png" alt="Italy Flag" style="width: 60px; height: 60px;"></td>
+        <td style="border: 1px solid black;"><img src="lang-flag/spain.png" alt="Spain Flag" style="width: 60px; height: 60px;"></td>
+        <td style="border: 1px solid black;"><img src="lang-flag/france.png" alt="France Flag" style="width: 60px; height: 60px;"></td>
+        <td style="border: 1px solid black;"><img src="lang-flag/portugal.png" alt="Portuguese Flag" style="width: 60px; height: 60px;"></td>
+        <td style="border: 1px solid black;"><img src="lang-flag/greece.png" alt="Greek Flag" style="width: 60px; height: 60px;"></td>
+        <td style="border: 1px solid black;"><img src="lang-flag/vietnam.png" alt="Vietnam Flag" style="width: 60px; height: 60px;"></td>
+        <td style="border: 1px solid black;"><img src="lang-flag/germany.png" alt="German Flag" style="width: 60px; height: 60px;"></td>
     </tr>
     <tr>
-        <td style="border: 1px solid black;"><img src="country-flag/germany.png" alt="German Flag" style="width: 60px; height: 60px;"></td>
-        <td style="border: 1px solid black;"><img src="country-flag/netherlands.png" alt="Dutch Flag" style="width: 60px; height: 60px;"></td>
-        <td style="border: 1px solid black;"><img src="country-flag/japan.png" alt="Japanese Flag" style="width: 60px; height: 60px;"></td>
-        <td style="border: 1px solid black;"><img src="country-flag/south-korea.png" alt="South Korean Flag" style="width: 60px; height: 60px;"></td>
-        <td style="border: 1px solid black;"><img src="country-flag/hong-kong.png" alt="Hong Kong Flag" style="width: 60px; height: 60px;"></td>
-        <td style="border: 1px solid black;"><img src="country-flag/russia.png" alt="Russia Flag" style="width: 60px; height: 60px;"></td>
-        <td style="border: 1px solid black;"><img src="country-flag/india.png" alt="India Flag" style="width: 60px; height: 60px;"></td>
-        <td style="border: 1px solid black;"><img src="country-flag/arabic.png" alt="Arabic Flag" style="width: 60px; height: 60px;"></td>
+        <td style="border: 1px solid black;"><img src="lang-flag/netherlands.png" alt="Netherland Flag" style="width: 60px; height: 60px;"></td>
+        <td style="border: 1px solid black;"><img src="lang-flag/japan.png" alt="Japan Flag" style="width: 60px; height: 60px;"></td>
+        <td style="border: 1px solid black;"><img src="lang-flag/south-korea.png" alt="South Korea Flag" style="width: 60px; height: 60px;"></td>
+        <td style="border: 1px solid black;"><img src="lang-flag/hong-kong.png" alt="Hong Kong Flag" style="width: 60px; height: 60px;"></td>
+        <td style="border: 1px solid black;"><img src="lang-flag/russia.png" alt="Russia Flag" style="width: 60px; height: 60px;"></td>
+        <td style="border: 1px solid black;"><img src="lang-flag/india.png" alt="India Flag" style="width: 60px; height: 60px;"></td>
+        <td style="border: 1px solid black;"><img src="lang-flag/arabic.png" alt="Arabic Flag" style="width: 60px; height: 60px;"></td>
+        <td style="border: 1px solid black;"><img src="lang-flag/ukraine.png" alt="Ukraine Flag" style="width: 60px; height: 60px;"></td>
     </tr>
 </table>
+
+<!--
+Steps for making a new language image here:
+1. Google "ukrainian round transparent background"
+2. Download
+3. Crop if needed
+4. Resize if needed => 60px * 60px
+5. ChatGPT can make the background transparent
+
+Python code
+
+```py
+from PIL import Image
+
+# Open the image file
+image_path = '/mnt/data/ukraine.jpg'
+image = Image.open(image_path)
+
+# Convert the image to RGBA (if it is not already in that mode)
+image = image.convert("RGBA")
+
+# Get the data of the image
+data = image.getdata()
+
+# Replace white background with transparency
+new_data = []
+for item in data:
+    # Check for white (or nearly white) pixels
+    if item[0] > 200 and item[1] > 200 and item[2] > 200:
+        # Replace white pixels with transparent pixels
+        new_data.append((255, 255, 255, 0))
+    else:
+        new_data.append(item)
+
+# Update image data
+image.putdata(new_data)
+
+# Save the image with a transparent background
+output_path = '/mnt/data/ukraine_transparent.png'
+image.save(output_path, "PNG")
+
+output_path
+```
+
+-->
 
 <!--
 https://vectorflags.com
@@ -336,7 +382,7 @@ https://www.freeflagicons.com
 
 <!-- <a href="https://www.youtube.com/@devopswithbrian2283" target="_blank"><img alt="DevOps with Brian | Youtube" height="15px" src="YouTube.svg" /></a> -->
 
-- 🔭 I'm currently making my udemy courses and learning Cantonese, Japanese, Korean, Spanish, Italian, Portuguese, Greek, German, Dutch, French, Russian, Hindi, Vietnamese and Arabic - total 16 speaking languages!
+- 🔭 I'm currently making my udemy courses and learning Cantonese, Japanese, Korean, Spanish, Italian, Portuguese, Greek, German, Dutch, French, Russian, Hindi, Vietnamese, Arabic and Ukrainian - total 17 speaking languages!
 
   [My Udemy Courses](https://myudemycourses.netlify.app/)
 
