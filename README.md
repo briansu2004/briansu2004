@@ -443,10 +443,18 @@ https://www.freeflagicons.com
   <!-- [New course](https://www.udemy.com/user/brian-su-18/) -->
 
 <!-- 
-- My 26th Udemy course:
+- My 27th Udemy course:
 
   [?](https://www.udemy.com/course/)
+
+- My 26th Udemy course:
+
+  [Pass Exam AZ-305: Designing Azure Infrastructure Solutions](https://www.udemy.com/course/pass-az-305)
 -->
+
+- My 26th Udemy course:
+
+  [Pass Exam AZ-305: Designing Azure Infrastructure Solutions](Coming Soon)
 
 - My 25th Udemy course:
 
