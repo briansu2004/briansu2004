@@ -3,6 +3,14 @@
 - [Info](#info)
 - [Project 1 - Crime AI](#project-1---crime-ai)
 - [Project 2 - Basketball AI](#project-2---basketball-ai)
+- [Project 3 - Fish](#project-3---fish)
+- [🚤 **AI-Powered Underwater Fish Detection Project**](#-ai-powered-underwater-fish-detection-project)
+  - [Help bring next-generation fishing intelligence to life](#help-bring-next-generation-fishing-intelligence-to-life)
+  - [🎣 **🌊 The Vision**](#--the-vision)
+  - [🧠 **How It Works**](#-how-it-works)
+  - [🌟 **Why This Project Matters**](#-why-this-project-matters)
+  - [🛠️ **What Sponsorship Supports**](#️-what-sponsorship-supports)
+  - [🤝 **Join Me**](#-join-me)
 
 ## Info
 
@@ -70,6 +78,8 @@ Here's a high-level overview of how I will proceed:
 ## Project 2 - Basketball AI
 
 ```md
+## Idea: Smart Basketball
+
 To ensure fair foul judgments in basketball games with friends, I am creating a system that leverages **sensor technology and AI algorithms**.
 
 ### 1. **Smart Basketball Court System**
@@ -119,3 +129,99 @@ Such a system is not only suitable for casual games with friends but also for am
 2. **Target Audience**: Highlight applications for amateur games, training camps, or sports academies.
 3. **Scalability**: Mention how it can expand to professional leagues in the future.
 ```
+
+## Project 3 - Fish
+
+```md
+I have a good idea now and want to put on my github sponsor page.
+
+I see lots of mid-age men love fishing. I belive a good AI-powered solution can help them finding fish more efficiently.
+
+Here is a basic idea:
+
+1. This is for fisher who drive boat to the lakes or sea to fish.
+2. A camera to be used to put underwater to capture the images and videos.
+3. Use Vision AI to detect fish and count.
+4. If the desity is good enough, then it is a good place to start fishing.
+
+How to make this idea better to put on my github sponsor page to attract people to sponsor me?
+```
+
+Here's a polished, engaging version of your idea that's suitable for a **GitHub Sponsors page** and helps attract supporters. It highlights the **vision**, the **value**, and the **innovation**, while sounding professional and exciting.
+
+---
+
+## 🚤 **AI-Powered Underwater Fish Detection Project**
+
+### Help bring next-generation fishing intelligence to life
+
+Many mid-age anglers love spending their weekends on the lake or out at sea searching for the perfect fishing spot. But finding fish is still often based on guesswork, expensive equipment, or pure luck. I believe we can change that—with AI.
+
+I'm building an **AI-powered solution** that helps boat-based fishers locate fish more accurately, efficiently, and affordably.
+Your sponsorship will help make this open-source project a reality.
+
+---
+
+### 🎣 **🌊 The Vision**
+
+Create an affordable, portable underwater imaging device powered by modern computer vision so that everyday fishers can:
+
+- **See real-time underwater activity**
+- **Detect and count fish automatically**
+- **Estimate fish density**
+- **Find the best spot to start fishing**
+
+This is inspired by how many experienced fishers search for the perfect spot—now enhanced by cutting-edge AI.
+
+---
+
+### 🧠 **How It Works**
+
+1. A compact underwater camera attaches to your boat and streams live video.
+2. Vision AI models analyze the feed to detect fish species, count them, and estimate overall density.
+3. When the density reaches a certain threshold, the system alerts the fisher:
+   “This is a promising spot!”
+4. All processing aims to be optimized for small edge devices (e.g., Raspberry Pi, Jetson Nano).
+
+---
+
+### 🌟 **Why This Project Matters**
+
+- **Affordable alternative** to expensive commercial fish finders
+- **Open source**, customizable, hackable
+- **Useful for recreational anglers, researchers, and conservationists**
+- **Great real-world application of AI, computer vision, and edge computing**
+- Builds a community for people who love both **fishing** and **technology**
+
+---
+
+### 🛠️ **What Sponsorship Supports**
+
+Your sponsorship helps fund:
+
+- Dataset collection (underwater footage)
+- Model training using YOLO/RT-DETR
+- Hardware prototypes (camera, housing, mini-computer)
+- Real-world testing on lakes and seashores
+- Open-source documentation, tutorials, and demos
+
+Even small contributions help me push this idea forward and release it for everyone.
+
+---
+
+### 🤝 **Join Me**
+
+If you love fishing, AI, or open-source engineering, consider sponsoring this project.
+Let's build the **first community-driven, AI-based underwater fish detection tool** and help fishers everywhere find their perfect spot—smarter and easier.
+
+<!-- ---
+
+If you want, I can also help you:
+
+✔ write a shorter version
+✔ write a more marketing-style version
+✔ design a logo/slogan
+✔ prepare a README.md for your repository
+✔ create sample images/mockups for the device
+
+Just tell me! -->
