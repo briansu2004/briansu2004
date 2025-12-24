@@ -281,6 +281,7 @@ Steps for making the course image here:
 
 ### My Languages
 
+<!--
 <table style="border-collapse: collapse; width: 100%;">
     <tr>
         <td style="border: 1px solid black;"><img src="lang-flag/china.png" alt="China Flag" style="width: 60px; height: 60px;"></td>
@@ -303,6 +304,64 @@ Steps for making the course image here:
         <td style="border: 1px solid black;"><img src="lang-flag/arabic.png" alt="Arabic Flag" style="width: 60px; height: 60px;"></td>
         <td style="border: 1px solid black;"><img src="lang-flag/ukraine.png" alt="Ukraine Flag" style="width: 60px; height: 60px;"></td>
     </tr>
+</table> -->
+
+<table style="border-collapse: collapse; width: 100%; text-align: center;">
+  <tr>
+    <td style="border: 1px solid black;">
+      <img src="lang-flag/china.png" alt="Chinese" title="Chinese" width="60" height="60">
+    </td>
+    <td style="border: 1px solid black;">
+      <img src="lang-flag/canada.png" alt="English (Canada)" title="English (Canada)" width="60" height="60">
+    </td>
+    <td style="border: 1px solid black;">
+      <img src="lang-flag/italy.png" alt="Italian" title="Italian" width="60" height="60">
+    </td>
+    <td style="border: 1px solid black;">
+      <img src="lang-flag/spain.png" alt="Spanish" title="Spanish" width="60" height="60">
+    </td>
+    <td style="border: 1px solid black;">
+      <img src="lang-flag/france.png" alt="French" title="French" width="60" height="60">
+    </td>
+    <td style="border: 1px solid black;">
+      <img src="lang-flag/portugal.png" alt="Portuguese" title="Portuguese" width="60" height="60">
+    </td>
+    <td style="border: 1px solid black;">
+      <img src="lang-flag/greece.png" alt="Greek" title="Greek" width="60" height="60">
+    </td>
+    <td style="border: 1px solid black;">
+      <img src="lang-flag/vietnam.png" alt="Vietnamese" title="Vietnamese" width="60" height="60">
+    </td>
+    <td style="border: 1px solid black;">
+      <img src="lang-flag/germany.png" alt="German" title="German" width="60" height="60">
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black;">
+      <img src="lang-flag/netherlands.png" alt="Dutch" title="Dutch" width="60" height="60">
+    </td>
+    <td style="border: 1px solid black;">
+      <img src="lang-flag/japan.png" alt="Japanese" title="Japanese" width="60" height="60">
+    </td>
+    <td style="border: 1px solid black;">
+      <img src="lang-flag/south-korea.png" alt="Korean" title="Korean" width="60" height="60">
+    </td>
+    <td style="border: 1px solid black;">
+      <img src="lang-flag/hong-kong.png" alt="Hong Kong" title="Hong Kong" width="60" height="60">
+    </td>
+    <td style="border: 1px solid black;">
+      <img src="lang-flag/russia.png" alt="Russian" title="Russian" width="60" height="60">
+    </td>
+    <td style="border: 1px solid black;">
+      <img src="lang-flag/india.png" alt="Hindi" title="Hindi" width="60" height="60">
+    </td>
+    <td style="border: 1px solid black;">
+      <img src="lang-flag/arabic.png" alt="Arabic" title="Arabic" width="60" height="60">
+    </td>
+    <td style="border: 1px solid black;">
+      <img src="lang-flag/ukraine.png" alt="Ukrainian" title="Ukrainian" width="60" height="60">
+    </td>
+  </tr>
 </table>
 
 <!--
@@ -390,8 +449,8 @@ https://www.freeflagicons.com
 
   Ace IT Job Interview Courses <a href="https://www.youtube.com/@AceITJobInterviewCourses-ok4gn" target="_blank"><img alt="brian Su | Youtube" height="15px" src="YouTube.svg" /></a>
 
-  <!-- 
-  @AceITJobInterviewCourses-ok4gn 
+  <!--
+  @AceITJobInterviewCourses-ok4gn
   https://www.youtube.com/@AceITJobInterviewCourses-ok4gn
   https://www.youtube.com/channel/UCPQaJmElLBya7vliMk1E1Sg
   -->
@@ -399,7 +458,7 @@ https://www.freeflagicons.com
 - My upcoming Udemy courses (WIP):
 
   <!-- [Pass PHP Job Interviews](Coming Soon) -->
-  
+
   [Secure Scala Job Interviews](Coming Soon)
 
   [Conquer C++ Job Interviews](Coming Soon)
@@ -412,7 +471,7 @@ https://www.freeflagicons.com
 
   [Nail Next.js Job Interviews](Coming Soon)
 
-  <!-- 
+  <!--
   [Angular Mastery: Kickstart Your Full Stack Projects](Coming Soon)
 
   [VUE Mastery: Quickstart Your Full Stack Projects](Coming Soon)
@@ -425,7 +484,7 @@ https://www.freeflagicons.com
 
   [NuGet Mastery: Kickstart Your C# Projects](Coming Soon)
 
-  [Gradle Mastery: Kickstart Your Java Projects](Coming Soon) 
+  [Gradle Mastery: Kickstart Your Java Projects](Coming Soon)
   -->
 
   [NoSQL - MongoDB](Coming soon)
@@ -442,7 +501,7 @@ https://www.freeflagicons.com
 
   <!-- [New course](https://www.udemy.com/user/brian-su-18/) -->
 
-<!-- 
+<!--
 - My 27th Udemy course:
 
   [?](https://www.udemy.com/course/)
