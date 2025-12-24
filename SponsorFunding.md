@@ -155,7 +155,7 @@ Here's a polished, engaging version of your idea that's suitable for a **GitHub 
 
 ### Help bring next-generation fishing intelligence to life
 
-Many mid-age anglers love spending their weekends on the lake or out at sea searching for the perfect fishing spot. But finding fish is still often based on guesswork, expensive equipment, or pure luck. I believe we can change that—with AI.
+Many mid-age anglers love spending their weekends on the lake or out at sea searching for the perfect fishing spot. But finding fish is still often based on guesswork, expensive equipment, or pure luck. I believe we can change that-with AI.
 
 I'm building an **AI-powered solution** that helps boat-based fishers locate fish more accurately, efficiently, and affordably.
 Your sponsorship will help make this open-source project a reality.
@@ -171,7 +171,7 @@ Create an affordable, portable underwater imaging device powered by modern compu
 - **Estimate fish density**
 - **Find the best spot to start fishing**
 
-This is inspired by how many experienced fishers search for the perfect spot—now enhanced by cutting-edge AI.
+This is inspired by how many experienced fishers search for the perfect spot-now enhanced by cutting-edge AI.
 
 ---
 
@@ -212,7 +212,7 @@ Even small contributions help me push this idea forward and release it for every
 ### 🤝 **Join Me**
 
 If you love fishing, AI, or open-source engineering, consider sponsoring this project.
-Let's build the **first community-driven, AI-based underwater fish detection tool** and help fishers everywhere find their perfect spot—smarter and easier.
+Let's build the **first community-driven, AI-based underwater fish detection tool** and help fishers everywhere find their perfect spot-smarter and easier.
 
 <!-- ---
 
