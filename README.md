@@ -315,30 +315,10 @@ Steps for making the course image here:
       <img src="lang-flag/canada.png" alt="English (Canada)" title="English (Canada)" width="60" height="60">
     </td>
     <td style="border: 1px solid black;">
-      <img src="lang-flag/italy.png" alt="Italian" title="Italian" width="60" height="60">
-    </td>
-    <td style="border: 1px solid black;">
-      <img src="lang-flag/spain.png" alt="Spanish" title="Spanish" width="60" height="60">
-    </td>
-    <td style="border: 1px solid black;">
       <img src="lang-flag/france.png" alt="French" title="French" width="60" height="60">
     </td>
     <td style="border: 1px solid black;">
-      <img src="lang-flag/portugal.png" alt="Portuguese" title="Portuguese" width="60" height="60">
-    </td>
-    <td style="border: 1px solid black;">
-      <img src="lang-flag/greece.png" alt="Greek" title="Greek" width="60" height="60">
-    </td>
-    <td style="border: 1px solid black;">
-      <img src="lang-flag/vietnam.png" alt="Vietnamese" title="Vietnamese" width="60" height="60">
-    </td>
-    <td style="border: 1px solid black;">
-      <img src="lang-flag/germany.png" alt="German" title="German" width="60" height="60">
-    </td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black;">
-      <img src="lang-flag/netherlands.png" alt="Dutch" title="Dutch" width="60" height="60">
+      <img src="lang-flag/spain.png" alt="Spanish" title="Spanish" width="60" height="60">
     </td>
     <td style="border: 1px solid black;">
       <img src="lang-flag/japan.png" alt="Japanese" title="Japanese" width="60" height="60">
@@ -347,10 +327,24 @@ Steps for making the course image here:
       <img src="lang-flag/south-korea.png" alt="Korean" title="Korean" width="60" height="60">
     </td>
     <td style="border: 1px solid black;">
-      <img src="lang-flag/hong-kong.png" alt="Hong Kong" title="Hong Kong" width="60" height="60">
+      <img src="lang-flag/portugal.png" alt="Portuguese" title="Portuguese" width="60" height="60">
     </td>
     <td style="border: 1px solid black;">
-      <img src="lang-flag/russia.png" alt="Russian" title="Russian" width="60" height="60">
+      <img src="lang-flag/greece.png" alt="Greek" title="Greek" width="60" height="60">
+    </td>
+    <td style="border: 1px solid black;">
+      <img src="lang-flag/hong-kong.png" alt="Hong Kong" title="Hong Kong" width="60" height="60">
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black;">
+      <img src="lang-flag/italy.png" alt="Italian" title="Italian" width="60" height="60">
+    </td>
+    <td style="border: 1px solid black;">
+      <img src="lang-flag/germany.png" alt="German" title="German" width="60" height="60">
+    </td>
+    <td style="border: 1px solid black;">
+      <img src="lang-flag/netherlands.png" alt="Dutch" title="Dutch" width="60" height="60">
     </td>
     <td style="border: 1px solid black;">
       <img src="lang-flag/india.png" alt="Hindi" title="Hindi" width="60" height="60">
@@ -359,7 +353,13 @@ Steps for making the course image here:
       <img src="lang-flag/arabic.png" alt="Arabic" title="Arabic" width="60" height="60">
     </td>
     <td style="border: 1px solid black;">
+      <img src="lang-flag/vietnam.png" alt="Vietnamese" title="Vietnamese" width="60" height="60">
+    </td>
+    <td style="border: 1px solid black;">
       <img src="lang-flag/ukraine.png" alt="Ukrainian" title="Ukrainian" width="60" height="60">
+    </td>
+    <td style="border: 1px solid black;">
+      <img src="lang-flag/russia.png" alt="Russian" title="Russian" width="60" height="60">
     </td>
   </tr>
 </table>
