@@ -363,7 +363,7 @@ Steps for making the course image here:
       <img src="lang-flag/russia.png" alt="Russian" title="Russian" width="60" height="60">
     </td>
     <td style="border: 1px solid black;">
-      <img src="lang-flag/turkish.jpg" alt="Turkish" title="Turkish" width="60" height="60">
+      <img src="lang-flag/turkish.png" alt="Turkish" title="Turkish" width="60" height="60">
       <!-- Started learning from Aug 5, 2026 -->
     </td>
   </tr>
