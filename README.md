@@ -1,4 +1,4 @@
-# Hello Γειά σου Guten Tag Hola Olá Ciao おはよう 안녕하세요 Dag Bonjour Привет नमस्ते Chào مرحبًا 咩事 您好 😎
+# Hello Γειά σου / Γειά σας Guten Tag / Hallo Hola Olá Ciao / Salve こんにちは 안녕하세요 Hallo / Hoi / Dag Bonjour / Salut Привет / Здравствуйте नमस्ते Xin chào مرحبا Merhaba 咩事 您好 😎
 
 <!-- - [👍😊 Brian Su ](#-brian-su-)
   - [My Udemy courses](#my-udemy-courses)
@@ -9,25 +9,26 @@
 - [💰🧧 If you would like to help me or support me](#-if-you-would-like-to-help-me-or-support-me) -->
 
 <!--
-01: English: Hello
-02: Greek: Γειά σου
-03: German: Guten Tag / Hi / Hallo
+01. Mandarin: 您好
+02: English: Hello
+03: French: Bonjour
 04: Spanish: Hola
-05: Portuguese: Olá
-06: Italian: Ciao
-07: Japanese: おはよう
-08: Korean: 안녕하세요
-09: Dutch: Dag / Hoi / Hallo
-10: French: Bonjour
-11: Russian: Привет
-12: Hindi: नमस्ते
-13: Cantonese: 咩事
-14: Mandarin: 您好
-
+05: Japanese: こんにちは
+06: Korean: 안녕하세요
+07: Cantonese: 咩事
+08: Greek: Γειά σου
+09: Portuguese: Olá
+10: Italian: Ciao
+11: German: Guten Tag / Hi / Hallo
+12: Dutch: Dag / Hoi / Hallo
+13: Hindi: नमस्ते
+14: Arabic: مرحبًا
+15. Vietnamese: Xin chào
+16: Ukrainian: Привіт
+17: Russian: Привет
+18.  Turkish: Merhaba
 ...
 
-15: Vietnamese: Xin chào
-16: Arabic: مرحبًا
 -->
 
 ## 👍😊 Brian Su <!-- Ich bin -->
@@ -327,13 +328,13 @@ Steps for making the course image here:
       <img src="lang-flag/south-korea.png" alt="Korean" title="Korean" width="60" height="60">
     </td>
     <td style="border: 1px solid black;">
-      <img src="lang-flag/portugal.png" alt="Portuguese" title="Portuguese" width="60" height="60">
-    </td>
-    <td style="border: 1px solid black;">
       <img src="lang-flag/greece.png" alt="Greek" title="Greek" width="60" height="60">
     </td>
     <td style="border: 1px solid black;">
       <img src="lang-flag/hong-kong.png" alt="Hong Kong" title="Hong Kong" width="60" height="60">
+    </td>
+    <td style="border: 1px solid black;">
+      <img src="lang-flag/portugal.png" alt="Portuguese" title="Portuguese" width="60" height="60">
     </td>
   </tr>
   <tr>
@@ -361,12 +362,16 @@ Steps for making the course image here:
     <td style="border: 1px solid black;">
       <img src="lang-flag/russia.png" alt="Russian" title="Russian" width="60" height="60">
     </td>
+    <td style="border: 1px solid black;">
+      <img src="lang-flag/turkish.jpg" alt="Turkish" title="Turkish" width="60" height="60">
+      <!-- Started learning from Aug 5, 2026 -->
+    </td>
   </tr>
 </table>
 
 <!--
 Steps for making a new language image here:
-1. Google "ukrainian round transparent background"
+1. Google "Turkish round transparent background"
 2. Download
 3. Crop if needed
 4. Resize if needed => 60px * 60px
